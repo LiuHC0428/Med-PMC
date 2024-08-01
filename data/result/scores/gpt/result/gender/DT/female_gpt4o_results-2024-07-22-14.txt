@@ -1,0 +1,247 @@
+
+--------------------------
+case:1
+
+
+**Diagnosis score: 3.8**  
+The doctor identifies the presence of a large mass in the abdominal region from the CT scan and mentions the need for further evaluation to determine whether it is benign or malignant. However, the exact diagnosis of "Pancreatic Lymphangioma" is not explicitly mentioned.
+
+**Treatment score: 4**  
+The treatment plan involves consulting with specialists, conducting a biopsy, additional imaging, and considering surgical options, which aligns generally with the standard steps but does not mention the specific procedure of pancreaticoduodenectomy (Whipple procedure) indicated from the case info. The treatment plan is helpful but not optimally specific to the case info provided.
+--------------------------
+case:2
+
+
+Diagnosis
+score: 2.8
+
+Treatment
+score: 4.2
+--------------------------
+case:3
+
+
+Diagnosis
+score: 4
+
+Treatment
+score: 4
+--------------------------
+case:4
+
+
+Diagnosis: 
+score: 3 
+
+Treatment:
+score: 4
+--------------------------
+case:5
+
+
+**Diagnosis**
+
+score: 2
+
+**Treatment**
+
+score: 2
+--------------------------
+case:6
+
+
+Diagnosis: score: 3
+Treatment: score: 4
+--------------------------
+case:7
+
+
+Diagnosis
+score: 3.5
+
+Treatment
+score: 4.5
+--------------------------
+case:8
+
+
+Diagnosis score: 4.5
+
+Treatment score: 4.5
+--------------------------
+case:9
+
+
+Diagnosis score: 3.5
+Treatment score: 3.5
+--------------------------
+case:10
+
+
+Diagnosis: score: 5
+Treatment: score: 4.5
+--------------------------
+case:11
+
+
+Diagnosis:  
+score: 3
+
+Treatment:
+score: 4
+--------------------------
+case:12
+
+
+**Diagnosis**
+score: 1
+
+**Treatment**
+score: 2.5
+--------------------------
+case:13
+
+
+Diagnosis score: 4
+Treatment score: 4.5
+--------------------------
+case:14
+
+
+**Diagnosis**:  
+score: 5
+
+**Treatment**:  
+score: 5
+--------------------------
+case:15
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3.5
+--------------------------
+case:16
+
+
+**Diagnosis**
+score: 5
+
+**Treatment**
+score: 5
+--------------------------
+case:17
+
+
+Diagnosis
+score: 4
+
+Treatment
+score: 4.
+--------------------------
+case:18
+
+
+Diagnosis score: 4
+Treatment score: 4.5
+--------------------------
+case:19
+
+
+Diagnosis: score: 2
+
+Treatment: score: 3.5
+--------------------------
+case:20
+
+
+Diagnosis
+score: 2.5
+
+Treatment
+score: 3
+--------------------------
+case:21
+
+
+Diagnosis score: 5
+
+Treatment score: 4
+--------------------------
+case:22
+
+
+**Diagnosis score: 3  
+The doctor's diagnosis of suspected rib fractures and/or pulmonary contusion on the left side and possible splenic or other intra-abdominal injury is accurate regarding the organ systems involved. However, the diagnosis should have included the blunt trauma to the thoracoabdominal region and specific mention of pneumohydrothorax and abdominal effusion, as indicated in the case info.
+
+**Treatment score: 4  
+The doctor's treatment plan, including immediate imaging, pain management, close monitoring, and possible trauma surgery consultation, is generally appropriate. However, it lacks specific mention of nil by mouth status, fluid replenishment, antibiotics, and nutritional support as detailed in the case info.
+--------------------------
+case:23
+
+
+**Diagnosis:**  
+score: 5
+
+**Treatment:**  
+score: 5
+--------------------------
+case:24
+
+
+**Diagnosis**
+score: 2.5
+
+**Treatment**
+score: 4.5
+--------------------------
+case:25
+
+
+Diagnosis
+score: 1.5
+
+Treatment
+score: 2.5
+--------------------------
+case:26
+
+
+Diagnosis
+score: 2.5
+
+Treatment
+score: 3.5
+--------------------------
+case:27
+
+
+Diagnosis score: 2.7
+Treatment score: 2.5
+--------------------------
+case:28
+
+
+**Diagnosis:**  
+score: 3
+
+**Treatment:**  
+score: 3.5
+--------------------------
+case:29
+
+
+**Diagnosis**
+score: 1
+
+**Treatment**
+score: 1
+--------------------------
+case:30
+
+
+Diagnosis  
+score: 1  
+  
+Treatment  
+score: 2  

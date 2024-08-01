@@ -1,0 +1,220 @@
+
+--------------------------
+case:1
+
+
+Diagnosis
+score: 1.5
+
+Treatment
+score: 2.5
+--------------------------
+case:2
+
+
+Diagnosis score: 4  
+Treatment score: 4.5
+--------------------------
+case:3
+
+
+**Diagnosis:** score: 3
+
+**Treatment:** score: 4
+--------------------------
+case:4
+
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3.5
+--------------------------
+case:5
+
+
+**Diagnosis score: 5**
+
+**Treatment score: 4**
+--------------------------
+case:6
+
+
+## Evaluation Criteria
+
+### Diagnosis 
+Score: 2.6 
+
+Though the final diagnosis by the doctor mentions chronic pancreatitis and pancreatic pseudocyst, matching the standard diagnosis to some extent, the confusion during the dialogue and the incorrect base information about the patient's profile significantly hindered the diagnostic accuracy.
+
+### Treatment
+Score: 3.2
+
+The follow-up plan for blood tests and an abdominal ultrasound is aligned with the need to confirm the pseudocyst and monitor liver function, which is beneficial but not entirely consistent with the standard treatment provided in the case info. The actual treatment of famotidine and mesna for symptomatic relief as outlined in the case info was not covered.
+--------------------------
+case:7
+
+
+Diagnosis score: 1.5  
+Treatment score: 1.5
+--------------------------
+case:8
+
+
+Diagnosis score: 4.5
+Treatment score: 4.5
+--------------------------
+case:9
+
+
+Diagnosis score: 2.0  
+Treatment score: 3.7
+--------------------------
+case:10
+
+
+Diagnosis score: 5  
+Treatment score: 4.5  
+--------------------------
+case:11
+
+
+Diagnosis:
+score: 1
+
+Treatment:
+score: 1
+--------------------------
+case:12
+
+
+**Diagnosis**
+Score: 1
+
+**Treatment**
+Score: 1
+--------------------------
+case:13
+
+
+**Diagnosis**
+score: 1.5
+
+**Treatment**
+score: 2.5
+--------------------------
+case:14
+
+
+Diagnosis score: 3.5
+
+Treatment score: 4.5
+--------------------------
+case:15
+
+
+**Diagnosis score: 1.5  
+**Treatments score: 1.5
+--------------------------
+case:16
+
+
+Diagnosis score: 1
+Treatment score: 1
+--------------------------
+case:17
+
+
+Diagnosis score: 3.7  
+Treatment score: 3.0  
+--------------------------
+case:18
+
+
+Diagnosis score: 4.5
+Treatment score: 4.2
+--------------------------
+case:19
+
+
+Diagnosis score: 2.5
+
+Treatment score: 2.5
+--------------------------
+case:20
+
+
+Diagnosis score: 1.5
+Treatment score: 1.0
+--------------------------
+case:21
+
+
+Diagnosis score: 1
+
+Treatment score: 1
+--------------------------
+case:22
+
+
+**Diagnosis**
+score: 5
+
+**Treatment**
+score: 5
+--------------------------
+case:23
+
+
+Diagnosis
+score: 5
+
+Treatment
+score: 5
+--------------------------
+case:24
+
+
+Diagnosis score: 2.5  
+Treatment score: 2.5
+--------------------------
+case:25
+
+
+Diagnosis score: 2.8
+
+Treatment score: 2.9
+--------------------------
+case:26
+
+
+Diagnosis score: 1  
+Treatment score: 1
+--------------------------
+case:27
+
+
+Diagnosis score: 1
+Treatment score: 1
+--------------------------
+case:28
+
+
+Diagnosis score: 3
+
+Treatment score: 2.5
+--------------------------
+case:29
+
+
+Diagnosis score: 2.3  
+Treatment score: 2.3
+--------------------------
+case:30
+
+
+Diagnosis score
+score: 1
+
+Treatment:
+score: 2

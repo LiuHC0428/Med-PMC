@@ -1,0 +1,435 @@
+
+--------------------------
+case:1
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 4
+--------------------------
+case:2
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3.5
+--------------------------
+case:3
+
+
+Consultation
+score: 2.9
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 2.5
+--------------------------
+case:4
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:5
+
+
+**Consultation score: 2.5**
+- Logic and sequence of questions could be clearer. Inquiry about diet and travel exposure was appropriate but the questions on symptom history and pain specifics were skipped or glossed over.
+
+**Examination score: 1**
+- Failed to perform and record essential physical examination maneuvers or confirmatory tests as noted in the case info. Including palpation details or performing Rovsing’s sign and imaging review was also not done.
+
+**Diagnosis and Treatment score: 2**
+- Incorrect diagnosis and plan. The correct diagnosis should be acute appendicitis and indicative treatment should be surgical, which deviates from gastrointestinal infection diagnosis provided by the doctor.
+
+**Communication Skills score: 2.5**
+- Communication is somewhat formal and indirect. The information relayed to the patient could be clearer, especially regarding the seriousness of the symptoms and the necessity for an accurate diagnosis. Failed to provide reassurance and encouragement effectively.
+--------------------------
+case:6
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3.5
+
+Communication Skills
+score: 4.5
+--------------------------
+case:7
+
+
+**Consultation**
+score: 2
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 1
+
+**Communication Skills**
+score: 3
+--------------------------
+case:8
+
+
+Consultation
+score: 3
+
+Examination
+score: 4
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 2
+--------------------------
+case:9
+
+
+Consultation:
+score: 4
+
+Examination:
+score: 1
+
+Diagnosis and Treatment:
+score: 2.5
+
+Communication Skills:
+score: 4.5
+--------------------------
+case:10
+
+
+Consultation
+score: 2.8
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 4
+--------------------------
+case:11
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3
+--------------------------
+case:12
+
+
+**Evaluation of Doctor's Performance:**
+
+**Consultation**
+Score: 3
+The doctor collects a significant portion of the medical history but misses some key points, such as the specific nature and progression of the symptoms in detail. The language used could be simplified to avoid confusion for the patient.
+
+**Examination**
+Score: 1
+The doctor did not perform or reference the necessary imaging examination, particularly the X-ray required for assessing the thumb. The physical examination and blood tests mentioned are not adequately covered or documented.
+
+**Diagnosis and Treatment**
+Score: 2
+The diagnosis indicates infection or inflammation, vaguely consistent but not sufficiently detailed compared to the 'Purulent tenosynovitis of the thumb' diagnosis in the standard case. The recommendation for further tests and specialist consultation lacks specificity about immediate treatments needed, like incision and drainage of the abscess.
+
+**Communication Skills**
+Score: 4
+The doctor communicates effectively and with empathy but could improve clarity. Despite using professional jargon, the communication reassures the patient and makes understanding easier.
+--------------------------
+case:13
+
+
+Consultation score: 3
+Examination score: 1
+Diagnosis and Treatment score: 2
+Communication Skills score: 2
+--------------------------
+case:14
+
+
+**Consultation**
+score: 1
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2
+
+**Communication Skills**
+score: 1
+--------------------------
+case:15
+
+
+**Consultation**
+score: 2
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 1
+
+**Communication Skills**
+score: 3
+--------------------------
+case:16
+
+
+Consultation score: 2.5
+
+Examination score: 1
+
+Diagnosis and Treatment score: 2
+
+Communication Skills score: 2.5
+--------------------------
+case:17
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:18
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3.5
+--------------------------
+case:19
+
+
+Consultation  
+score: 2
+
+Examination  
+score: 1
+
+Diagnosis and Treatment  
+score: 2
+
+Communication Skills  
+score: 3
+--------------------------
+case:20
+
+
+Consultation score
+score: 3
+
+Examination:
+score: 1
+
+Diagnosis and Treatment:
+score: 2
+
+Communication Skills:
+score: 4
+--------------------------
+case:21
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:22
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3
+--------------------------
+case:23
+
+
+Consultation score: 4.0
+
+Examination score: 1.0
+
+Diagnosis and Treatment score: 3.0
+
+Communication Skills score: 4.0
+--------------------------
+case:24
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 2
+--------------------------
+case:25
+
+
+Consultation Score
+score: 2
+
+Examination score 
+score: 1
+
+Diagnosis and Treatment:
+score: 2
+
+Communication Skills score
+score: 3
+--------------------------
+case:26
+
+
+Consultation score: 2.5
+Examination score: 1
+Diagnosis and Treatment score: 2
+Communication Skills score: 3.5
+--------------------------
+case:27
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 2.5
+--------------------------
+case:28
+
+
+Consultation
+score: 2.3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3.5
+--------------------------
+case:29
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 2.5
+--------------------------
+case:30
+
+
+Consultation
+score: 1
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3

@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "inquary": 3.2,
+        "exam": 1.0,
+        "diagnosis": 3.8,
+        "treatment": 4.5,
+        "cskill": 2.5,
+        "logic": 3.5
+    },
+    {
+        "id": 2,
+        "inquary": 4.0,
+        "exam": 1.0,
+        "diagnosis": 4.0,
+        "treatment": 3.8,
+        "cskill": 3.8,
+        "logic": 4.2
+    },
+    {
+        "id": 3,
+        "inquary": 4.0,
+        "exam": 2.5,
+        "diagnosis": 4.0,
+        "treatment": 5.0,
+        "cskill": 5.0,
+        "logic": 4.7
+    },
+    {
+        "id": 4,
+        "inquary": 4.0,
+        "exam": 3.5,
+        "diagnosis": 4.5,
+        "treatment": 3.8,
+        "cskill": 4.2,
+        "logic": 4.0
+    },
+    {
+        "id": 5,
+        "inquary": 4.0,
+        "exam": 1.0,
+        "diagnosis": 4.0,
+        "treatment": 4.5,
+        "cskill": 4.7,
+        "logic": 4.5
+    },
+    {
+        "id": 6,
+        "inquary": 4.0,
+        "exam": 1.0,
+        "diagnosis": 4.0,
+        "treatment": 3.5,
+        "cskill": 4.0,
+        "logic": 4.5
+    },
+    {
+        "id": 7,
+        "inquary": 3.0,
+        "exam": 1.0,
+        "diagnosis": 3.5,
+        "treatment": 2.0,
+        "cskill": 2.5,
+        "logic": 4.0
+    },
+    {
+        "id": 8,
+        "inquary": 4.5,
+        "exam": 5.0,
+        "diagnosis": 4.0,
+        "treatment": 5.0,
+        "cskill": 4.5,
+        "logic": 4.5
+    },
+    {
+        "id": 9,
+        "inquary": 4.0,
+        "exam": 1.5,
+        "diagnosis": 4.0,
+        "treatment": 3.0,
+        "cskill": 2.5,
+        "logic": 4.5
+    },
+    {
+        "id": 10,
+        "inquary": 4.0,
+        "exam": 3.5,
+        "diagnosis": 4.5,
+        "treatment": 4.5,
+        "cskill": 3.8,
+        "logic": 4.0
+    },
+    {
+        "id": 11,
+        "inquary": 3.5,
+        "exam": 2.0,
+        "diagnosis": 3.5,
+        "treatment": 4.4,
+        "cskill": 2.5,
+        "logic": 3.5
+    },
+    {
+        "id": 12,
+        "inquary": 3.5,
+        "exam": 1.0,
+        "diagnosis": 4.5,
+        "treatment": 3.5,
+        "cskill": 4.5,
+        "logic": 4.7
+    },
+    {
+        "id": 13,
+        "inquary": 4.0,
+        "exam": 2.5,
+        "diagnosis": 4.0,
+        "treatment": 3.0,
+        "cskill": 3.5,
+        "logic": 4.0
+    },
+    {
+        "id": 14,
+        "inquary": 4.0,
+        "exam": 4.0,
+        "diagnosis": 4.0,
+        "treatment": 5.0,
+        "cskill": 5.0,
+        "logic": 4.5
+    },
+    {
+        "id": 15,
+        "inquary": 3.5,
+        "exam": 1.0,
+        "diagnosis": 4.0,
+        "treatment": 3.0,
+        "cskill": 4.0,
+        "logic": 4.5
+    },
+    {
+        "id": 16,
+        "inquary": 4.0,
+        "exam": 1.0,
+        "diagnosis": 4.5,
+        "treatment": 5.0,
+        "cskill": 4.5,
+        "logic": 4.5
+    },
+    {
+        "id": 17,
+        "inquary": 4.0,
+        "exam": 1.0,
+        "diagnosis": 4.5,
+        "treatment": 4.0,
+        "cskill": 4.5,
+        "logic": 4.2
+    },
+    {
+        "id": 18,
+        "inquary": 4.0,
+        "exam": 1.0,
+        "diagnosis": 4.0,
+        "treatment": 4.5,
+        "cskill": 4.0,
+        "logic": 5.0
+    },
+    {
+        "id": 19,
+        "inquary": 3.0,
+        "exam": 1.0,
+        "diagnosis": 4.5,
+        "treatment": 2.5,
+        "cskill": 2.0,
+        "logic": 5.0
+    },
+    {
+        "id": 20,
+        "inquary": 3.0,
+        "exam": 4.0,
+        "diagnosis": 4.0,
+        "treatment": 5.0,
+        "cskill": 4.5,
+        "logic": 4.1
+    },
+    {
+        "id": 21,
+        "inquary": 4.4,
+        "exam": 3.5,
+        "diagnosis": 4.8,
+        "treatment": 2.5,
+        "cskill": 2.0,
+        "logic": 4.5
+    },
+    {
+        "id": 22,
+        "inquary": 4.0,
+        "exam": 5.0,
+        "diagnosis": 4.5,
+        "treatment": 4.5,
+        "cskill": 4.5,
+        "logic": 4.0
+    },
+    {
+        "id": 23,
+        "inquary": 4.0,
+        "exam": 4.0,
+        "diagnosis": 4.0,
+        "treatment": 5.0,
+        "cskill": 4.8,
+        "logic": 4.5
+    },
+    {
+        "id": 24,
+        "inquary": 4.5,
+        "exam": 4.5,
+        "diagnosis": 4.5,
+        "treatment": 3.8,
+        "cskill": 3.9,
+        "logic": 4.5
+    },
+    {
+        "id": 25,
+        "inquary": 4.0,
+        "exam": 1.0,
+        "diagnosis": 4.0,
+        "treatment": 5.0,
+        "cskill": 3.5,
+        "logic": 4.8
+    },
+    {
+        "id": 26,
+        "inquary": 3.0,
+        "exam": 3.0,
+        "diagnosis": 4.0,
+        "treatment": 2.5,
+        "cskill": 2.5,
+        "logic": 4.5
+    },
+    {
+        "id": 27,
+        "inquary": 3.8,
+        "exam": 2.2,
+        "diagnosis": 3.8,
+        "treatment": 3.5,
+        "cskill": 4.5,
+        "logic": 4.0
+    },
+    {
+        "id": 28,
+        "inquary": 3.1,
+        "exam": 1.0,
+        "diagnosis": 3.4,
+        "treatment": 3.3,
+        "cskill": 3.5,
+        "logic": 4.5
+    },
+    {
+        "id": 29,
+        "inquary": 2.8,
+        "exam": 1.0,
+        "diagnosis": 3.5,
+        "treatment": 1.0,
+        "cskill": 1.0,
+        "logic": 4.0
+    },
+    {
+        "id": 30,
+        "inquary": 2.5,
+        "exam": 1.0,
+        "diagnosis": 3.0,
+        "treatment": 2.5,
+        "cskill": 1.0,
+        "logic": 3.7
+    }
+]

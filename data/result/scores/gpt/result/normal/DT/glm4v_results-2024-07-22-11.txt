@@ -1,0 +1,206 @@
+
+--------------------------
+case:1
+
+
+Diagnosis score: 2.5
+Treatment score: 4
+--------------------------
+case:2
+
+
+Diagnosis score: 2.5
+Treatment score: 2.5
+--------------------------
+case:3
+
+
+Diagnosis score: 2
+Treatment score: 2
+--------------------------
+case:4
+
+
+Diagnosis score: 1.5
+Treatment score: 2.5
+--------------------------
+case:5
+
+
+Diagnosis score: 1  
+Treatment score: 1
+--------------------------
+case:6
+
+
+Diagnosis
+score: 3.5
+
+Treatment
+score: 4
+--------------------------
+case:7
+
+
+Diagnosis score: 2 
+Treatment score: 2.5
+--------------------------
+case:8
+
+
+**Diagnosis:**   
+score: 3.8
+
+**Treatment:**  
+score: 4.3
+--------------------------
+case:9
+
+
+Diagnosis score 
+Score: 2
+
+Treatment score
+Score: 3
+--------------------------
+case:10
+
+
+Diagnosis score: 2
+Treatment score: 2
+--------------------------
+case:11
+
+
+Diagnosis score: 3  
+Treatment score: 1
+--------------------------
+case:12
+
+
+Diagnosis score: 2
+Treatment score: 2
+--------------------------
+case:13
+
+
+Diagnosis score: 2
+Treatment score: 3
+--------------------------
+case:14
+
+
+Diagnosis score: 5  
+Treatment score: 4.5
+--------------------------
+case:15
+
+
+Diagnosis score: 2.0  
+Treatment score: 4.0
+--------------------------
+case:16
+
+
+Diagnosis score: 4  
+Treatment score: 4.5
+--------------------------
+case:17
+
+
+Diagnosis score 
+score: 2 
+
+Treatment score 
+score: 2.5
+--------------------------
+case:18
+
+
+Diagnosis:
+score: 3
+
+Treatment:
+score: 2.5
+--------------------------
+case:19
+
+
+Diagnosis score: 2 
+Treatment score: 2
+--------------------------
+case:20
+
+
+Diagnosis score: 3.5
+
+Treatment score: 2.5
+--------------------------
+case:21
+
+
+Diagnosis score: 2
+
+Treatment score: 2
+--------------------------
+case:22
+
+
+Diagnosis score: 3.5
+Treatment score: 4.0
+--------------------------
+case:23
+
+
+Diagnosis score: 4.3  
+Treatment score: 3.3
+--------------------------
+case:24
+
+
+Diagnosis score: 2.5  
+Treatment score: 2.5
+--------------------------
+case:25
+
+
+Diagnosis score: 3.5  
+Treatment score: 3.5
+--------------------------
+case:26
+
+
+Diagnosis score: 3.5  
+Treatment score: 3.8 
+--------------------------
+case:27
+
+
+Diagnosis score: 3.7
+Treatment score: 3.2
+--------------------------
+case:28
+
+
+Diagnosis score: 1.5
+Treatment score: 2
+
+Diagnosis score 
+The doctor completely missed the diagnosis of acute necrotizing pancreatitis and instead suggested possible gastritis or duodenitis. The findings on the CT scan should have pointed towards a more severe condition, which in this case was pancreatitis.
+
+Treatment:
+The proposed treatment plan of dietary modifications and referral to a gastroenterologist is insufficient for a condition as critical as acute necrotizing pancreatitis. Appropriate immediate interventions like antibiotics, immune modulation, and mechanical ventilation were not considered.
+--------------------------
+case:29
+
+
+Diagnosis score: 2.5
+
+Treatment score: 4.5
+--------------------------
+case:30
+
+
+Diagnosis score: 1.5
+
+Treatment score: 2.

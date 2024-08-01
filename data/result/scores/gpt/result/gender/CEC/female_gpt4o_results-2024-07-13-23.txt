@@ -1,0 +1,461 @@
+
+--------------------------
+case:1
+
+
+Consultation: 
+score: 3
+
+Examination:
+score: 4
+
+Diagnosis and Treatment:
+score: 3.5
+
+Communication Skills:
+score: 3.5
+--------------------------
+case:2
+
+
+**Evaluation**
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 4
+--------------------------
+case:3
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 4
+--------------------------
+case:4
+
+
+Consultation: score: 3
+
+Examination: score: 1
+
+Diagnosis and Treatment: score: 3.5
+
+Communication Skills: score: 4.5
+--------------------------
+case:5
+
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 2
+
+**Diagnosis and Treatment**
+score: 1
+
+**Communication Skills**
+score: 3
+--------------------------
+case:6
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 4
+--------------------------
+case:7
+
+
+Consultation  
+score: 3
+
+Examination  
+score: 1
+
+Diagnosis and Treatment  
+score: 3
+
+Communication Skills  
+score: 4
+--------------------------
+case:8
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 2
+--------------------------
+case:9
+
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 3
+
+**Communication Skills**
+score: 4
+--------------------------
+case:10
+
+
+### Evaluation
+
+**Consultation**
+score: 4
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 4
+
+**Communication Skills**
+score: 4
+--------------------------
+case:11
+
+
+Consultation  
+score: 3
+
+Examination  
+score: 1
+
+Diagnosis and Treatment  
+score: 3
+
+Communication Skills  
+score: 4
+--------------------------
+case:12
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:13
+
+
+Consultation
+score: 2
+
+Examination
+score: 4
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 3
+--------------------------
+case:14
+
+
+Consultation  
+score: 4
+
+Examination
+score: 4  
+
+Diagnosis and Treatment
+score: 4  
+
+Communication Skills
+score: 4
+--------------------------
+case:15
+
+
+Consultation 
+score: 3.8
+
+Examination 
+score: 1
+
+Diagnosis and Treatment 
+score: 3.5
+
+Communication Skills 
+score: 3.8
+--------------------------
+case:16
+
+
+---
+### Evaluation
+
+#### Consultation
+**Score: 4
+- **Rationale**: The doctor is mostly clear and logical, focusing on key issues while avoiding excessive medical jargon. Most key medical history details are collected, though a few additional specific follow-up questions could improve thoroughness.
+
+#### Examination
+**Score: 4
+- **Rationale**: The doctor performed the necessary assessments including review of the CT scan. While mainly accurate, few additional details on physical examination, especially the neurological exam, could enhance the completeness.
+
+#### Diagnosis and Treatment
+**Score: 4
+- **Rationale**: The diagnosis provided is close to the standard case and the treatment plan is similar to the standard case. The reasoning shows good integration of the test results, though more detailed follow-up actions could be added to make it perfect.
+
+#### Communication Skills
+**Score: 4.5
+- **Rationale**: The doctor communicates well, giving clear answers that effectively reassure the patient; however, there's a tiny room for improvement in empathy and clarity.
+
+### Summarized Ratings
+- **Consultation**: 4
+- **Examination**: 4
+- **Diagnosis and Treatment**: 4
+- **Communication Skills**: 4.5
+--------------------------
+case:17
+
+
+Consultation
+score: 3
+
+Examination
+score: 4
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 3
+--------------------------
+case:18
+
+
+**Consultation**
+Score: 4
+
+**Examination**
+Score: 3
+
+**Diagnosis and Treatment**
+Score: 3.5
+
+**Communication Skills**
+Score: 4.5
+--------------------------
+case:19
+
+
+**Consultation**
+score: 4 
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2
+
+**Communication Skills**
+score: 4
+--------------------------
+case:20
+
+
+Consultation
+score: 3
+
+Examination
+score: 3
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3.5
+--------------------------
+case:21
+
+
+Consultation
+score: 3.7
+
+Examination
+score: 4.7
+
+Diagnosis and Treatment
+score: 3.9
+
+Communication Skills
+score: 4.5
+--------------------------
+case:22
+
+
+**Consultation**
+score: 2.8
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2.6
+
+**Communication Skills**
+score:  2.8
+--------------------------
+case:23
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 4
+--------------------------
+case:24
+
+
+Consultation
+score: 2.5
+Examination
+score: 1
+Diagnosis and Treatment
+score: 2
+Communication Skills
+score: 4
+--------------------------
+case:25
+
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2
+
+**Communication Skills**
+score: 3
+--------------------------
+case:26
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 4
+--------------------------
+case:27
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3.5
+--------------------------
+case:28
+
+
+**Consultation**
+score: 4
+
+**Examination**
+score: 1 
+
+**Diagnosis and Treatment**
+score: 3 
+
+**Communication Skills**
+score: 4
+--------------------------
+case:29
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3
+--------------------------
+case:30
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 4

@@ -1,0 +1,443 @@
+
+--------------------------
+case:1
+
+
+Consultation
+score: 2.8
+
+Examination
+score: 2
+
+Diagnosis and Treatment
+score: 2.8
+
+Communication Skills
+score: 1.8
+--------------------------
+case:2
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3.5
+--------------------------
+case:3
+
+
+**Consultation**
+score: 2.5
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2.5
+
+**Communication Skills**
+score: 2.5
+--------------------------
+case:4
+
+
+Consultation:
+score: 2.5
+
+Examination:
+score: 1
+
+Diagnosis and Treatment:
+score: 3
+
+Communication Skills:
+score: 3.5
+--------------------------
+case:5
+
+
+Consultation score: 2.8
+Examination score: 1 
+Diagnosis and Treatment score: 3.8 
+Communication Skills score:  3.5
+--------------------------
+case:6
+
+
+Consultation score: 2.3
+Examination score: 1
+Diagnosis and Treatment score: 3
+Communication Skills score: 2.5
+--------------------------
+case:7
+
+
+Consultation:
+score: 2.5
+
+Examination:
+score: 2
+
+Diagnosis and Treatment:
+score: 2.5
+
+Communication Skills:
+score: 2.5
+--------------------------
+case:8
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 4
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 3
+--------------------------
+case:9
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:10
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 3
+--------------------------
+case:11
+
+
+Consultation
+score: 1.2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1.5
+
+Communication Skills
+score: 2.5
+--------------------------
+case:12
+
+
+Consultation 
+score: 1.2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 1
+--------------------------
+case:13
+
+
+## Evaluation
+
+**Consultation**
+score: 2.5
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 4
+
+**Communication Skills**
+score: 2.5
+--------------------------
+case:14
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 2.5
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 2.5
+--------------------------
+case:15
+
+
+Consultation
+score: 2.6
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3.5
+--------------------------
+case:16
+
+
+**Consultation**
+score: 2.8
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 1.2
+
+**Communication Skills**
+score: 3.1
+--------------------------
+case:17
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:18
+
+
+Consulation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 4
+--------------------------
+case:19
+
+
+Consultation score: 2.3
+
+Examination score: 1
+
+Diagnosis and Treatment score: 1.5
+
+Communication Skills score: 3
+--------------------------
+case:20
+
+
+Consultation
+score: 1.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 1.5
+--------------------------
+case:21
+
+
+Consultation score: 1.8
+Examination score: 1
+Diagnosis and Treatment score: 3.7
+Communication Skills score: 1.5
+--------------------------
+case:22
+
+
+Consultation
+score: 3.5
+
+Examination
+score: 4
+
+Diagnosis and Treatment
+score: 3.5
+
+Communication Skills
+score: 3.5
+--------------------------
+case:23
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 4
+--------------------------
+case:24
+
+
+### Evaluation
+
+**Consultation**  
+**Score: 4  
+The doctor collected a thorough history, focusing on the patient's chief complaint and relevant medical history. The dialogue is logical, and there is good avoidance of medical jargon. However, the initial focus on MRI and spinal lesion rather than directly addressing the abdominal symptoms led to some minor disorganization early in the consultation.
+
+**Examination**  
+**Score: 4  
+The doctor requested the appropriate diagnostic test (abdominal CT scan) that confirmed the diagnosis. There were no significantly unnecessary tests, but the detailed interpretation could be more precise by discussing the CT findings in greater detail with the patient.
+
+**Diagnosis and Treatment**   
+**Score: 4  
+The diagnosis of adhesive small bowel obstruction is appropriate and consistent with the standard case. The treatment plan closely matches the standard case, focusing on urgent management and potential surgery if conservative treatment fails. However, it slightly missed explicitly mentioning some treatment aspects like nutritional support.
+
+**Communication Skills**  
+**Score: 4  
+The doctor communicated well, explained the condition and management plan clearly, and reassured the patient. Some initial disorganization and the shift in focus initially might have caused slight confusion but was overall effective. 
+--------------------------
+case:25
+
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2.5
+
+**Communication Skills**
+score: 3
+--------------------------
+case:26
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 2.8
+--------------------------
+case:27
+
+
+Consultation  
+score: 1  
+
+Examination  
+score: 1  
+
+Diagnosis and Treatment  
+score: 1  
+
+Communication Skills  
+score: 2  
+--------------------------
+case:28
+
+
+Consultation
+score: 3.7
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 3.5
+--------------------------
+case:29
+
+
+### Evaluation 
+
+#### Consultation
+**Score: 3**  
+The doctor's logic was somewhat fragmented with their repeated step-by-step phrasing, slowing the flow of information gathering. Key areas such as past medical history, medications, allergies, social history, and family history were not addressed in the conversation, demonstrating an incomplete medical history collection. However, they did focus on key symptoms and avoided excessive medical jargon, collecting most details of the present illness.
+
+#### Examination
+**Score: 1**  
+There was no examination conducted as per the standard case. The doctor's summarized notes commented on the need for a physical examination but didn't report having performed any relevant tests or examinations.
+
+#### Diagnosis and Treatment
+**Score: 2**  
+The consultation did not lead to a specific diagnosis, and brucella meningitis, as seen in the standard case, was not considered or mentioned. The treatment plan in the doctor's summary was tentative and focused primarily on symptomatic relief, showing significant gaps compared to the standard case.
+
+#### Communication Skills
+**Score: 3**  
+The doctor provided clear answers and reassured the patient, but their communication was somewhat repetitive and not very efficient, which may have made understanding more difficult. The repetitive "let’s think step by step" approach might have been confusing for the patient and did not convey empathy effectively.
+
+### Summary
+The evaluation reveals that the doctor collected an incomplete medical history, did not perform the necessary examinations, failed to diagnose the condition accurately as brucella meningitis, and provided a rather generic treatment plan. Communication was clear but overly repetitive, which could hinder patient comprehension.
+--------------------------
+case:30
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3

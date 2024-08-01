@@ -1,0 +1,323 @@
+
+--------------------------
+case:1
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:2
+
+
+total behaviors score: 2.5
+examination image analysis capabilities score: 1.5
+
+score: 5
+--------------------------
+case:3
+
+
+total behaviors score: 4
+Examination image analysis capabilities score: 4
+
+score: 4
+--------------------------
+case:4
+
+
+total behaviors score: 3
+Examination image analysis capabilities score: 3
+
+patient:(1) Abdomen examination: Patient reports abdominal pain.
+(2) Blood pressure measurement: Everything is normal.
+(3) Lung auscultation: Everything is normal.
+doctor:Based on the information you have provided and your physical examination results, it seems likely that you may be experiencing a gastrointestinal issue, such as gastroenteritis or a gastrointestinal infection. Abdominal pain, vomiting, and difficulty in bowel movement are consistent with these conditions.
+
+To confirm the diagnosis and determine the best course of treatment, I would like to perform further diagnostic tests, such as a colonoscopy or additional imaging studies, to get a clearer picture of what might be happening in your gastrointestinal tract. In the meantime, I'll prescribe some medications to help alleviate your symptoms, such as antiemetics for vomiting and laxatives for bowel movements.
+
+Please let me know if you have any questions or concerns about this plan.
+
+---
+
+score: 3.5
+--------------------------
+case:5
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:6
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:7
+
+
+total behaviors:
+score: 4
+
+Examination image analysis capabilities score 
+score: 4
+
+score: 5
+--------------------------
+case:8
+
+
+total behaviors score: 2  
+examination image analysis capabilities score: 2
+
+score: 5
+--------------------------
+case:9
+
+
+total behaviors score: 4
+Examination image analysis capabilities score: 4
+
+score: 5
+--------------------------
+case:10
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:11
+
+
+total behaviors score: 4.5
+Examination image analysis capabilities score: 4.5
+
+score: 5
+--------------------------
+case:12
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:13
+
+
+total behaviors:
+score: 4.5
+
+Examination image analysis capabilities:
+score: 4.7
+
+patient: I have been experiencing severe abdominal pain recently, especially after meals.
+doctor: It's possible that you might be dealing with something like gallstones, but I can't be certain without more information. Have you had any imaging studies done, such as an abdominal ultrasound? Blood tests could also help in reaching a more accurate diagnosis. Based on just your symptoms, I can only suggest a preliminary hypothesis that requires further verification.
+
+score: 5
+--------------------------
+case:14
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:15
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:16
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:17
+
+
+total behaviors score: 1.5
+Examination image analysis capabilities score: 2
+
+score: 5
+--------------------------
+case:18
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:19
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:20
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:21
+
+
+total behaviors:
+score: 3
+Examination image analysis capabilities: 
+score: 3
+
+score: 4
+--------------------------
+case:22
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:23
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:24
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:25
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:26
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:27
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:28
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:29
+
+
+total behaviors:
+score: 2.5
+
+Examination image analysis capabilities:
+score: 1.5
+
+score: 4
+--------------------------
+case:30
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0

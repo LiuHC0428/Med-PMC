@@ -1,0 +1,728 @@
+[
+  {
+    "id": 1,
+    "Text": {
+      "Patient Information": "Female patient, 38 years old",
+      "Chief Complaint": "Has experienced abdominal pain for three months",
+      "Present Illness": "The patient reports upper abdominal pain accompanied by radiating back pain, with pain severity gradually increasing. Pain score is 4 out of 10, with no impact on sleep. Symptoms worsen after eating, but oral acetaminophen provides relief. Since the onset of symptoms, the patient has not experienced bloating, weight loss, or changes in appetite.",
+      "Physical Condition": "None",
+      "Past Medical History": "Previously diagnosed with asthma, poorly controlled, regularly using inhaled salbutamol and corticosteroids. No history of surgeries. No history of smoking or alcohol consumption. Family history includes celiac disease and colon cancer.",
+      "Examinations": "Abdominal CT angiography revealed: <\\image00001.jpg>.",
+      "Diagnosis": "Pancreatic Lymphangioma",
+      "Treatment": "Pancreaticoduodenectomy (Whipple procedure)"
+    },
+    "Image": {
+      "00001.jpg": "Abdominal CT angiography shows a suspected cystic mass in the head of the pancreas, measuring 14.4 x 10.5 x 6.2 cm, without soft tissue components. Radiological impression suggests a lymphoepithelial cyst, overlapping cysts, pseudocysts due to prior pancreatitis, lymphangioma, or intraductal papillary mucinous neoplasm."
+    },
+    "检查报告": "Abdominal CT angiography revealed: <\\image00001.jpg>.",
+    "身体状态": "None",
+    "诊断": "Pancreatic Lymphangioma",
+    "治疗": "Pancreaticoduodenectomy (Whipple procedure)",
+    "图片": {
+      "00001.jpg": "Abdominal CT angiography shows a suspected cystic mass in the head of the pancreas, measuring 14.4 x 10.5 x 6.2 cm, without soft tissue components. Radiological impression suggests a lymphoepithelial cyst, overlapping cysts, pseudocysts due to prior pancreatitis, lymphangioma, or intraductal papillary mucinous neoplasm."
+    },
+    "文本": "\nPatient Information:Female patient, 38 years old\nChief Complaint:Has experienced abdominal pain for three months\nPresent Illness:The patient reports upper abdominal pain accompanied by radiating back pain, with pain severity gradually increasing. Pain score is 4 out of 10, with no impact on sleep. Symptoms worsen after eating, but oral acetaminophen provides relief. Since the onset of symptoms, the patient has not experienced bloating, weight loss, or changes in appetite.\nPhysical Condition:None\nPast Medical History:Previously diagnosed with asthma, poorly controlled, regularly using inhaled salbutamol and corticosteroids. No history of surgeries. No history of smoking or alcohol consumption. Family history includes celiac disease and colon cancer."
+  },
+  {
+    "id": 2,
+    "Text": {
+      "Patient Information": "Male, 66 years old, farmer",
+      "Chief Complaint": "Sudden onset of severe upper abdominal pain lasting one day.",
+      "Present Illness": "The patient experienced sudden severe pain in the upper abdomen one day ago without any apparent cause. The pain was constant, without episodic worsening or radiation to other areas. Symptoms included nausea and vomiting six times, with the vomitus consisting of gastric contents totaling about 1000 milliliters, containing no blood or worms.",
+      "Physical Condition": "None",
+      "Past Medical History": "Has a history of 'gastric ulcers' for three years, intermittently treated with oral medications. Denies history of 'hypertension, diabetes,' etc. No known drug or food allergies, no history of trauma or major surgery, and unclear history of vaccinations.",
+      "Examinations": "Complete blood count shows: white blood cells at 2.46*10^9/L, neutrophil percentage at 79.0%, lymphocyte percentage at 14.0%, neutrophils count at 1.95*10^9/L, lymphocytes count at 0.34*10^9/L, hemoglobin at 159.00 g/L. \n\n Biochemical report indicates: total protein at 45.7 g/L, albumin at 22.9 g/L, globulin at 23.60 g/L. \n\n Upper abdominal CT: <\\image00002.jpg>.",
+      "Diagnosis": "1. Upper gastrointestinal perforation, 2. Cholecystolithiasis, cholecystitis, liver cyst, 3. Thickened ascending colon, 4. Acute diffuse peritonitis",
+      "Treatment": "Surgical repair of gastric pyloric perforation"
+    },
+    "Image": {
+      "00002.jpg": "Free air and fluid in the abdominal cavity, blurred fat stranding in the intestinal lumen, suggesting hollow visceral perforation. 2. Liver cyst 3. Gallstones, cholecystitis 4. Thickened ascending colon, further examination recommended"
+    },
+    "检查报告": "Complete blood count shows: white blood cells at 2.46*10^9/L, neutrophil percentage at 79.0%, lymphocyte percentage at 14.0%, neutrophils count at 1.95*10^9/L, lymphocytes count at 0.34*10^9/L, hemoglobin at 159.00 g/L. \n\n Biochemical report indicates: total protein at 45.7 g/L, albumin at 22.9 g/L, globulin at 23.60 g/L. \n\n Upper abdominal CT: <\\image00002.jpg>.",
+    "身体状态": "None",
+    "诊断": "1. Upper gastrointestinal perforation, 2. Cholecystolithiasis, cholecystitis, liver cyst, 3. Thickened ascending colon, 4. Acute diffuse peritonitis",
+    "治疗": "Surgical repair of gastric pyloric perforation",
+    "图片": {
+      "00002.jpg": "Free air and fluid in the abdominal cavity, blurred fat stranding in the intestinal lumen, suggesting hollow visceral perforation. 2. Liver cyst 3. Gallstones, cholecystitis 4. Thickened ascending colon, further examination recommended"
+    },
+    "文本": "\nPatient Information:Male, 66 years old, farmer\nChief Complaint:Sudden onset of severe upper abdominal pain lasting one day.\nPresent Illness:The patient experienced sudden severe pain in the upper abdomen one day ago without any apparent cause. The pain was constant, without episodic worsening or radiation to other areas. Symptoms included nausea and vomiting six times, with the vomitus consisting of gastric contents totaling about 1000 milliliters, containing no blood or worms.\nPhysical Condition:None\nPast Medical History:Has a history of 'gastric ulcers' for three years, intermittently treated with oral medications. Denies history of 'hypertension, diabetes,' etc. No known drug or food allergies, no history of trauma or major surgery, and unclear history of vaccinations."
+  },
+  {
+    "id": 3,
+    "Text": {
+      "Patient Information": "Male, 31 years old, laborer",
+      "Chief Complaint": "Upper abdominal distension and pain for 7 hours",
+      "Present Illness": "The patient consumed a high-fat diet last night and began experiencing pain in the upper abdomen around 9 AM today, primarily in the upper left quadrant. The abdominal pain is continuous, severe, and intolerable, accompanied by nausea and vomiting. There was no significant relief of abdominal pain after vomiting.",
+      "Physical Condition": "None",
+      "Past Medical History": "None.",
+      "Examinations": "White blood cell count is 15.14 x 10^9/L, electrolytes are largely normal, triglycerides are 9.44 mmol/L, liver and kidney functions are normal, calcitonin is normal, and blood glucose is normal.  \n\n  Upper abdominal CT shows: <\\image00003.jpg>.",
+      "Diagnosis": "Acute pancreatitis",
+      "Treatment": "Treatment includes omeprazole for acid suppression, low molecular weight heparin for lipid reduction, somatostatin to inhibit pancreatic enzyme secretion, fluid replacement to maintain electrolyte balance, and moxifloxacin for anti-infection."
+    },
+    "Image": {
+      "00003.jpg": "Consistent with pancreatitis with peripancreatic effusion, and fatty liver."
+    },
+    "检查报告": "White blood cell count is 15.14 x 10^9/L, electrolytes are largely normal, triglycerides are 9.44 mmol/L, liver and kidney functions are normal, calcitonin is normal, and blood glucose is normal.  \n\n  Upper abdominal CT shows: <\\image00003.jpg>.",
+    "身体状态": "None",
+    "诊断": "Acute pancreatitis",
+    "治疗": "Treatment includes omeprazole for acid suppression, low molecular weight heparin for lipid reduction, somatostatin to inhibit pancreatic enzyme secretion, fluid replacement to maintain electrolyte balance, and moxifloxacin for anti-infection.",
+    "图片": {
+      "00003.jpg": "Consistent with pancreatitis with peripancreatic effusion, and fatty liver."
+    },
+    "文本": "\nPatient Information:Male, 31 years old, laborer\nChief Complaint:Upper abdominal distension and pain for 7 hours\nPresent Illness:The patient consumed a high-fat diet last night and began experiencing pain in the upper abdomen around 9 AM today, primarily in the upper left quadrant. The abdominal pain is continuous, severe, and intolerable, accompanied by nausea and vomiting. There was no significant relief of abdominal pain after vomiting.\nPhysical Condition:None\nPast Medical History:None."
+  },
+  {
+    "id": 4,
+    "Text": {
+      "Patient Information": "Male, 77 years old",
+      "Chief Complaint": "Severe upper abdominal pain, vomiting, constipation, and cessation of passing gas for 7 days",
+      "Present Illness": "None",
+      "Physical Condition": "None",
+      "Past Medical History": "Previous history of asthma, poorly controlled, regularly using inhaled salbutamol and corticosteroids. No history of surgeries. No smoking or drinking history. Family history includes celiac disease and colon cancer.",
+      "Examinations": "Routine blood tests show no significant abnormalities.  \n\n Initial abdominal CT scan reveals: <\\image00004.jpg>, <\\image00005.jpg>",
+      "Diagnosis": "Gallstone ileus",
+      "Treatment": "Laparotomy"
+    },
+    "Image": {
+      "00004.jpg": "Gallstone obstructing the intestinal lumen.",
+      "00005.jpg": "Cholecystoduodenal fistula. Collapsed gallbladder with thickened wall, air visible within the lumen."
+    },
+    "检查报告": "Routine blood tests show no significant abnormalities.  \n\n Initial abdominal CT scan reveals: <\\image00004.jpg>, <\\image00005.jpg>",
+    "身体状态": "None",
+    "诊断": "Gallstone ileus",
+    "治疗": "Laparotomy",
+    "图片": {
+      "00004.jpg": "Gallstone obstructing the intestinal lumen.",
+      "00005.jpg": "Cholecystoduodenal fistula. Collapsed gallbladder with thickened wall, air visible within the lumen."
+    },
+    "文本": "\nPatient Information:Male, 77 years old\nChief Complaint:Severe upper abdominal pain, vomiting, constipation, and cessation of passing gas for 7 days\nPresent Illness:None\nPhysical Condition:None\nPast Medical History:Previous history of asthma, poorly controlled, regularly using inhaled salbutamol and corticosteroids. No history of surgeries. No smoking or drinking history. Family history includes celiac disease and colon cancer."
+  },
+  {
+    "id": 5,
+    "Text": {
+      "Patient Information": "Male, 42 years old",
+      "Chief Complaint": "Abdominal pain and diarrhea for 3 days",
+      "Present Illness": "The patient's abdominal pain started around the umbilical region and moved to the lower right abdomen, worsening gradually. The pain is sharp and exacerbated by movement and eating. Oral painkillers like acetaminophen provide partial relief. The pain is associated with low-grade fever and decreased appetite. The patient reports watery stools five times per day, with no mucus or blood. Diarrhea started after taking antibiotics for a recent upper respiratory infection.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of diabetes, well-controlled with oral hypoglycemic agents. No history of surgeries. Smoker for 15 years. No family history of hereditary gastrointestinal diseases.",
+      "Examinations": "Palpation: Abdomen soft with diffuse tenderness, most notable in the right iliac fossa with rebound tenderness.  \n\n  Rovsing's sign: positive. Complete blood count shows elevated white blood cells and inflammatory markers (including ESR and CRP).  \n\n  Liver and kidney functions normal. \n\n  Abdominal CT: <\\image00006.jpg>",
+      "Diagnosis": "Acute appendicitis",
+      "Treatment": "Limited cecum resection with appendectomy"
+    },
+    "Image": {
+      "00006.jpg": "Thickened colon wall with edematous folds suggesting pseudomembranous colitis. A 6cm lesion in the cecum, well-defined, with uniform fat density and no solid components."
+    },
+    "检查报告": "Palpation: Abdomen soft with diffuse tenderness, most notable in the right iliac fossa with rebound tenderness.  \n\n  Rovsing's sign: positive. Complete blood count shows elevated white blood cells and inflammatory markers (including ESR and CRP).  \n\n  Liver and kidney functions normal. \n\n  Abdominal CT: <\\image00006.jpg>",
+    "身体状态": "None",
+    "诊断": "Acute appendicitis",
+    "治疗": "Limited cecum resection with appendectomy",
+    "图片": {
+      "00006.jpg": "Thickened colon wall with edematous folds suggesting pseudomembranous colitis. A 6cm lesion in the cecum, well-defined, with uniform fat density and no solid components."
+    },
+    "文本": "\nPatient Information:Male, 42 years old\nChief Complaint:Abdominal pain and diarrhea for 3 days\nPresent Illness:The patient's abdominal pain started around the umbilical region and moved to the lower right abdomen, worsening gradually. The pain is sharp and exacerbated by movement and eating. Oral painkillers like acetaminophen provide partial relief. The pain is associated with low-grade fever and decreased appetite. The patient reports watery stools five times per day, with no mucus or blood. Diarrhea started after taking antibiotics for a recent upper respiratory infection.\nPhysical Condition:None\nPast Medical History:History of diabetes, well-controlled with oral hypoglycemic agents. No history of surgeries. Smoker for 15 years. No family history of hereditary gastrointestinal diseases."
+  },
+  {
+    "id": 6,
+    "Text": {
+      "Patient Information": "Male, 18 years old, student",
+      "Chief Complaint": "Two months post-acute pancreatitis recovery, experiencing abdominal bloating and decreased appetite for half a month.",
+      "Present Illness": "The patient developed persistent dull pain in the upper abdomen, particularly in the upper left quadrant, two months ago following overeating. Accompanied by nausea, vomiting of gastric contents, and developed generalized skin jaundice and dark urine. No chills, high fever, cough, phlegm, or breathing difficulties. Diagnosed at our hospital with acute pancreatitis and steatohepatitis.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of acute pancreatitis two months ago treated with medication. Denies history of surgeries, trauma, drug allergies, and denies contact with infectious diseases such as tuberculosis.",
+      "Examinations": "Laboratory findings show: ALT: 65.2 U/L, AST: 32.0 U/L, GGT: 126.0 U/L, TBIL: 22.5 umol/L, DBIL: 10.3 umol/L, IBIL: 12.2 umol/L, serum amylase 217 U/L.  \n\n CT shows: <\\image00007.jpg>.",
+      "Diagnosis": "Pancreatic pseudocyst",
+      "Treatment": "Administered famotidine 20 mg in 100 mL of 0.9% sodium chloride solution, twice daily intravenous drip to inhibit gastric acid secretion, mesna for symptomatic treatment."
+    },
+    "Image": {
+      "00007.jpg": "Normal liver size and shape, no abnormal density in the parenchyma, no dilation in intrahepatic and extrahepatic bile ducts, normal size of the gallbladder, no clear positive stones. Pancreas is full, streak shadows around the pancreas, a round-like low-density shadow in front of the pancreas head, approximately 3.3*2.6 cm. Normal morphology, size, and density of the spleen. No enlarged lymph nodes in the abdominal and retroperitoneal area."
+    },
+    "检查报告": "Laboratory findings show: ALT: 65.2 U/L, AST: 32.0 U/L, GGT: 126.0 U/L, TBIL: 22.5 umol/L, DBIL: 10.3 umol/L, IBIL: 12.2 umol/L, serum amylase 217 U/L.  \n\n CT shows: <\\image00007.jpg>.",
+    "身体状态": "None",
+    "诊断": "Pancreatic pseudocyst",
+    "治疗": "Administered famotidine 20 mg in 100 mL of 0.9% sodium chloride solution, twice daily intravenous drip to inhibit gastric acid secretion, mesna for symptomatic treatment.",
+    "图片": {
+      "00007.jpg": "Normal liver size and shape, no abnormal density in the parenchyma, no dilation in intrahepatic and extrahepatic bile ducts, normal size of the gallbladder, no clear positive stones. Pancreas is full, streak shadows around the pancreas, a round-like low-density shadow in front of the pancreas head, approximately 3.3*2.6 cm. Normal morphology, size, and density of the spleen. No enlarged lymph nodes in the abdominal and retroperitoneal area."
+    },
+    "文本": "\nPatient Information:Male, 18 years old, student\nChief Complaint:Two months post-acute pancreatitis recovery, experiencing abdominal bloating and decreased appetite for half a month.\nPresent Illness:The patient developed persistent dull pain in the upper abdomen, particularly in the upper left quadrant, two months ago following overeating. Accompanied by nausea, vomiting of gastric contents, and developed generalized skin jaundice and dark urine. No chills, high fever, cough, phlegm, or breathing difficulties. Diagnosed at our hospital with acute pancreatitis and steatohepatitis.\nPhysical Condition:None\nPast Medical History:History of acute pancreatitis two months ago treated with medication. Denies history of surgeries, trauma, drug allergies, and denies contact with infectious diseases such as tuberculosis."
+  },
+  {
+    "id": 7,
+    "Text": {
+      "Patient Information": "Female, 53 years old, farmer",
+      "Chief Complaint": "Pain and limited movement in the right thumb for one year.",
+      "Present Illness": "The patient experienced unprovoked pain in the right thumb a year ago, without fever, headache, or dizziness. The pain gradually worsened and was accompanied by discomfort during movement.",
+      "Physical Condition": "None",
+      "Past Medical History": "Hammer deformity of the right little finger for ten years.",
+      "Examinations": "Physical examination: no heat or redness at the palmar metacarpophalangeal joint of the right thumb, but a soybean-sized hard nodule palpable with tenderness, moving with flexion and extension of the thumb.  \n\n Normal terminal blood circulation and sensation.  \n\n Hammer deformity of the right little finger.  \n\n No obvious abnormalities in the remaining limbs.  \n\n Hand X-ray: <\\image00008.jpg>.",
+      "Diagnosis": "1. Stenosing tenosynovitis of the right thumb long flexor tendon, 2. Hammer deformity of the right little finger",
+      "Treatment": "Surgical release of stenosing tenosynovitis"
+    },
+    "Image": {
+      "00008.jpg": "Normal bone quality of the right hand"
+    },
+    "检查报告": "Physical examination: no heat or redness at the palmar metacarpophalangeal joint of the right thumb, but a soybean-sized hard nodule palpable with tenderness, moving with flexion and extension of the thumb.  \n\n Normal terminal blood circulation and sensation.  \n\n Hammer deformity of the right little finger.  \n\n No obvious abnormalities in the remaining limbs.  \n\n Hand X-ray: <\\image00008.jpg>.",
+    "身体状态": "None",
+    "诊断": "1. Stenosing tenosynovitis of the right thumb long flexor tendon, 2. Hammer deformity of the right little finger",
+    "治疗": "Surgical release of stenosing tenosynovitis",
+    "图片": {
+      "00008.jpg": "Normal bone quality of the right hand"
+    },
+    "文本": "\nPatient Information:Female, 53 years old, farmer\nChief Complaint:Pain and limited movement in the right thumb for one year.\nPresent Illness:The patient experienced unprovoked pain in the right thumb a year ago, without fever, headache, or dizziness. The pain gradually worsened and was accompanied by discomfort during movement.\nPhysical Condition:None\nPast Medical History:Hammer deformity of the right little finger for ten years."
+  },
+  {
+    "id": 8,
+    "Text": {
+      "Patient Information": "Female, 45 years old, office worker",
+      "Chief Complaint": "Right upper quadrant abdominal pain for two days.",
+      "Present Illness": "The patient experienced sudden right upper quadrant abdominal pain two days ago after a meal, accompanied by nausea and vomiting of gastric contents once. No fever, headache, or dizziness. Previously sought treatment at a local clinic, received infusion therapy (details unknown), with no significant relief of symptoms.",
+      "Physical Condition": "None",
+      "Past Medical History": "None",
+      "Examinations": "Abdominal ultrasound: <\\image00009.jpg>.",
+      "Diagnosis": "Multiple gallstones with cholecystitis.",
+      "Treatment": "Laparoscopic cholecystectomy under general anesthesia"
+    },
+    "Image": {
+      "00009.jpg": "Gallbladder approximately 40×20mm in size, slightly rough gallbladder wall, 3mm thick, multiple strong echoes with shadowing inside the cavity, the largest about 11mm, common bile duct outside the liver: 3mm, no abnormal echoes"
+    },
+    "检查报告": "Abdominal ultrasound: <\\image00009.jpg>.",
+    "身体状态": "None",
+    "诊断": "Multiple gallstones with cholecystitis.",
+    "治疗": "Laparoscopic cholecystectomy under general anesthesia",
+    "图片": {
+      "00009.jpg": "Gallbladder approximately 40×20mm in size, slightly rough gallbladder wall, 3mm thick, multiple strong echoes with shadowing inside the cavity, the largest about 11mm, common bile duct outside the liver: 3mm, no abnormal echoes"
+    },
+    "文本": "\nPatient Information:Female, 45 years old, office worker\nChief Complaint:Right upper quadrant abdominal pain for two days.\nPresent Illness:The patient experienced sudden right upper quadrant abdominal pain two days ago after a meal, accompanied by nausea and vomiting of gastric contents once. No fever, headache, or dizziness. Previously sought treatment at a local clinic, received infusion therapy (details unknown), with no significant relief of symptoms.\nPhysical Condition:None\nPast Medical History:None"
+  },
+  {
+    "id": 9,
+    "Text": {
+      "Patient Information": "Female, 60 years old, worker",
+      "Chief Complaint": "Tar-like stools for one week",
+      "Present Illness": "The patient reports onset of tar-like stools approximately one week ago without any clear cause, with a volume of about 150g, occurring 1-2 times per day, accompanied by persistent fatigue.",
+      "Physical Condition": "None",
+      "Past Medical History": "None",
+      "Examinations": "Abdominopelvic CT: <\\image00010.jpg>",
+      "Diagnosis": "Gastric stromal tumor, upper gastrointestinal bleeding",
+      "Treatment": "Partial gastrectomy"
+    },
+    "Image": {
+      "00010.jpg": "In the antrum of the stomach, there is an irregularly shaped mass with uneven density measuring approximately 4.5 cm x 4.1 cm x 6.1 cm, mostly protruding into the gastric cavity, with uneven mild enhancement seen on contrast-enhanced scans; omentum thickened."
+    },
+    "检查报告": "Abdominopelvic CT: <\\image00010.jpg>",
+    "身体状态": "None",
+    "诊断": "Gastric stromal tumor, upper gastrointestinal bleeding",
+    "治疗": "Partial gastrectomy",
+    "图片": {
+      "00010.jpg": "In the antrum of the stomach, there is an irregularly shaped mass with uneven density measuring approximately 4.5 cm x 4.1 cm x 6.1 cm, mostly protruding into the gastric cavity, with uneven mild enhancement seen on contrast-enhanced scans; omentum thickened."
+    },
+    "文本": "\nPatient Information:Female, 60 years old, worker\nChief Complaint:Tar-like stools for one week\nPresent Illness:The patient reports onset of tar-like stools approximately one week ago without any clear cause, with a volume of about 150g, occurring 1-2 times per day, accompanied by persistent fatigue.\nPhysical Condition:None\nPast Medical History:None"
+  },
+  {
+    "id": 10,
+    "Text": {
+      "Patient Information": "Female, 66 years old, retired",
+      "Chief Complaint": "Abdominal pain for one day",
+      "Present Illness": "The patient experienced abdominal pain this morning at six o'clock after consuming alcohol, characterized by continuous bloating pain, progressively worsening, accompanied by radiating back pain, and the pain does not alleviate with changes in position.",
+      "Physical Condition": "None",
+      "Past Medical History": "None",
+      "Examinations": "Complete blood count: WBC: 4.92*10^9/L, N: 69.3%, serum amylase: 223 U/L, lipase: 1127 U/L, electrolytes: potassium: 4.34 mmol/L, D-dimer: 1.96 ug/ml.  \n\n Abdominal CT: <\\image00011.jpg>",
+      "Diagnosis": "Acute pancreatitis",
+      "Treatment": "NPO (nothing by mouth), blood pressure and oxygen saturation monitoring; enzyme inhibition with gabexate; acid suppression with lansoprazole; and nutritional support including multivitamins, compound amino acids, alanyl-glutamine, 10% potassium chloride, etc."
+    },
+    "Image": {
+      "00011.jpg": "Slight exudative shadows around the body and tail of the pancreas, pancreatitis pending further investigation, cystic foci in the liver and left kidney, splenomegaly, cystic predominant lesions in the right adnexal area."
+    },
+    "检查报告": "Complete blood count: WBC: 4.92*10^9/L, N: 69.3%, serum amylase: 223 U/L, lipase: 1127 U/L, electrolytes: potassium: 4.34 mmol/L, D-dimer: 1.96 ug/ml.  \n\n Abdominal CT: <\\image00011.jpg>",
+    "身体状态": "None",
+    "诊断": "Acute pancreatitis",
+    "治疗": "NPO (nothing by mouth), blood pressure and oxygen saturation monitoring; enzyme inhibition with gabexate; acid suppression with lansoprazole; and nutritional support including multivitamins, compound amino acids, alanyl-glutamine, 10% potassium chloride, etc.",
+    "图片": {
+      "00011.jpg": "Slight exudative shadows around the body and tail of the pancreas, pancreatitis pending further investigation, cystic foci in the liver and left kidney, splenomegaly, cystic predominant lesions in the right adnexal area."
+    },
+    "文本": "\nPatient Information:Female, 66 years old, retired\nChief Complaint:Abdominal pain for one day\nPresent Illness:The patient experienced abdominal pain this morning at six o'clock after consuming alcohol, characterized by continuous bloating pain, progressively worsening, accompanied by radiating back pain, and the pain does not alleviate with changes in position.\nPhysical Condition:None\nPast Medical History:None"
+  },
+  {
+    "id": 11,
+    "Text": {
+      "Patient Information": "Female, 70 years old",
+      "Chief Complaint": "Abdominal pain persisting for over 18 hours",
+      "Present Illness": "The patient reports spontaneous mild abdominal pain starting 18 hours ago, with no nausea, vomiting, diarrhea, or fever. Pain was slightly relieved after self-administration of 'Baoji pills'. At 2 AM, the patient suddenly experienced severe pain in the upper left abdomen, which was continuous.",
+      "Physical Condition": "None",
+      "Past Medical History": "None",
+      "Examinations": "Abdominal CT: <\\image00012.jpg>",
+      "Diagnosis": "Gastric perforation",
+      "Treatment": "Surgical repair of gastric ulcer perforation and abdominal lavage with drainage"
+    },
+    "Image": {
+      "00012.jpg": "Multiple free gas shadows around the liver, between the liver and stomach, and around the spleen, suggesting hollow visceral perforation, likely gastric perforation."
+    },
+    "检查报告": "Abdominal CT: <\\image00012.jpg>",
+    "身体状态": "None",
+    "诊断": "Gastric perforation",
+    "治疗": "Surgical repair of gastric ulcer perforation and abdominal lavage with drainage",
+    "图片": {
+      "00012.jpg": "Multiple free gas shadows around the liver, between the liver and stomach, and around the spleen, suggesting hollow visceral perforation, likely gastric perforation."
+    },
+    "文本": "\nPatient Information:Female, 70 years old\nChief Complaint:Abdominal pain persisting for over 18 hours\nPresent Illness:The patient reports spontaneous mild abdominal pain starting 18 hours ago, with no nausea, vomiting, diarrhea, or fever. Pain was slightly relieved after self-administration of 'Baoji pills'. At 2 AM, the patient suddenly experienced severe pain in the upper left abdomen, which was continuous.\nPhysical Condition:None\nPast Medical History:None"
+  },
+  {
+    "id": 12,
+    "Text": {
+      "Patient Information": "Male, 72 years old",
+      "Chief Complaint": "Red, swollen, hot, and painful left thumb for over 10 days, worsening over the past 3 days",
+      "Present Illness": "The patient reports spontaneous redness and swelling of the left thumb over 10 days ago, initially self-treated with oral anti-inflammatory medications. Symptoms worsened 3 days ago.",
+      "Physical Condition": "None",
+      "Past Medical History": "Post-gastrectomy 15 years ago. 'Hypertension' for 5 years, occasionally taking 'Telmisartan', with unclear control.",
+      "Examinations": "X-ray: <\\image00013.jpg>",
+      "Diagnosis": "Purulent tenosynovitis of the thumb",
+      "Treatment": "Incision and drainage of abscess + nail extraction"
+    },
+    "Image": {
+      "00013.jpg": "Slight narrowing of the interphalangeal joint space of the left thumb, with lip-like osteophyte formation around the joint. No evident bone destruction or interruption."
+    },
+    "检查报告": "X-ray: <\\image00013.jpg>",
+    "身体状态": "None",
+    "诊断": "Purulent tenosynovitis of the thumb",
+    "治疗": "Incision and drainage of abscess + nail extraction",
+    "图片": {
+      "00013.jpg": "Slight narrowing of the interphalangeal joint space of the left thumb, with lip-like osteophyte formation around the joint. No evident bone destruction or interruption."
+    },
+    "文本": "\nPatient Information:Male, 72 years old\nChief Complaint:Red, swollen, hot, and painful left thumb for over 10 days, worsening over the past 3 days\nPresent Illness:The patient reports spontaneous redness and swelling of the left thumb over 10 days ago, initially self-treated with oral anti-inflammatory medications. Symptoms worsened 3 days ago.\nPhysical Condition:None\nPast Medical History:Post-gastrectomy 15 years ago. 'Hypertension' for 5 years, occasionally taking 'Telmisartan', with unclear control."
+  },
+  {
+    "id": 13,
+    "Text": {
+      "Patient Information": "Female, 48 years old, athlete",
+      "Chief Complaint": "Sudden episodic colicky pain in the right upper abdomen after meals, accompanied by nausea for 2 days",
+      "Present Illness": "The patient experienced sudden episodic colicky pain in the right upper abdomen after eating, accompanied by nausea, two days ago. There were no chills, fever, headache, or dizziness, but she noted jaundice of the sclera. Similar episodes occurred in the past but were not taken seriously. The symptoms did not relieve after taking oral analgesics and have now worsened.",
+      "Physical Condition": "None",
+      "Past Medical History": "None",
+      "Examinations": "Abdominal ultrasound: <\\image00014.jpg>",
+      "Diagnosis": "Common bile duct stones",
+      "Treatment": "Choledochotomy for stone extraction + T-tube drainage"
+    },
+    "Image": {
+      "00014.jpg": "Strong echo observed in the common bile duct, largest measuring approximately 5×4 mm. Gallbladder is enlarged, full-shaped with a rough wall, measuring 93×50 mm."
+    },
+    "检查报告": "Abdominal ultrasound: <\\image00014.jpg>",
+    "身体状态": "None",
+    "诊断": "Common bile duct stones",
+    "治疗": "Choledochotomy for stone extraction + T-tube drainage",
+    "图片": {
+      "00014.jpg": "Strong echo observed in the common bile duct, largest measuring approximately 5×4 mm. Gallbladder is enlarged, full-shaped with a rough wall, measuring 93×50 mm."
+    },
+    "文本": "\nPatient Information:Female, 48 years old, athlete\nChief Complaint:Sudden episodic colicky pain in the right upper abdomen after meals, accompanied by nausea for 2 days\nPresent Illness:The patient experienced sudden episodic colicky pain in the right upper abdomen after eating, accompanied by nausea, two days ago. There were no chills, fever, headache, or dizziness, but she noted jaundice of the sclera. Similar episodes occurred in the past but were not taken seriously. The symptoms did not relieve after taking oral analgesics and have now worsened.\nPhysical Condition:None\nPast Medical History:None"
+  },
+  {
+    "id": 14,
+    "Text": {
+      "Patient Information": "Female, 64 years old, retired",
+      "Chief Complaint": "Routine check-up revealed gallstones for over 5 years, associated with chronic cholecystitis",
+      "Present Illness": "The patient was found to have gallstones during a routine check-up at an external hospital five years ago, with no accompanying symptoms like nausea, vomiting, or abdominal pain, thus no treatment was provided. Six months ago, she experienced intermittent acid bloating pain in the upper left abdomen without a clear cause, which was tolerable.",
+      "Physical Condition": "None",
+      "Past Medical History": "Hypertension for over 10 years, highest recorded blood pressure at 160/90 mmHg, treated with oral amlodipine, 1 tablet daily.",
+      "Examinations": "Abdominal ultrasound: <\\image00015.jpg>",
+      "Diagnosis": "Multiple gallstones",
+      "Treatment": "Laparoscopic cholecystectomy"
+    },
+    "Image": {
+      "00015.jpg": "Gallbladder wall is slightly rough with multiple small gallstones creating echoes (0.2-0.5 cm)."
+    },
+    "检查报告": "Abdominal ultrasound: <\\image00015.jpg>",
+    "身体状态": "None",
+    "诊断": "Multiple gallstones",
+    "治疗": "Laparoscopic cholecystectomy",
+    "图片": {
+      "00015.jpg": "Gallbladder wall is slightly rough with multiple small gallstones creating echoes (0.2-0.5 cm)."
+    },
+    "文本": "\nPatient Information:Female, 64 years old, retired\nChief Complaint:Routine check-up revealed gallstones for over 5 years, associated with chronic cholecystitis\nPresent Illness:The patient was found to have gallstones during a routine check-up at an external hospital five years ago, with no accompanying symptoms like nausea, vomiting, or abdominal pain, thus no treatment was provided. Six months ago, she experienced intermittent acid bloating pain in the upper left abdomen without a clear cause, which was tolerable.\nPhysical Condition:None\nPast Medical History:Hypertension for over 10 years, highest recorded blood pressure at 160/90 mmHg, treated with oral amlodipine, 1 tablet daily."
+  },
+  {
+    "id": 15,
+    "Text": {
+      "Patient Information": "Male, 45 years old, civil servant",
+      "Chief Complaint": "Persistent upper abdominal pain for one day",
+      "Present Illness": "The patient reports continuous severe pain in the upper abdomen that started one day ago without any apparent cause, radiating to the back, accompanied by nausea and vomiting three times, totaling approximately 800 milliliters of gastric content, without blood or worms. The pain did not alleviate after vomiting.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of Type 2 diabetes for 2 years, well-controlled with long-term oral medication.",
+      "Examinations": "Palpation: Reduced abdominal breathing, slightly distended abdomen, no visible intestinal peristalsis or bowel waves, liver and spleen not palpable beyond the costal margin, generalized abdominal tenderness without rebound pain or muscle guarding, most severe in the upper left quadrant, no costovertebral angle tenderness.  \n\n Abdominal CT: <\\image00016.jpg>.  \n\n Complete blood count: white blood cells at 10.19*10^9/L, neutrophil percentage at 83.30%, lymphocyte percentage at 10.40%, neutrophil count at 8.49*10^9/L. Urinalysis: ketones +3, glucose +4, protein +3. Bicarbonate 12.81 mmol/L, blood sugar 14.44 mmol/L.",
+      "Diagnosis": "Hemorrhagic shock, splenic rupture",
+      "Treatment": "Exploratory laparotomy, splenectomy"
+    },
+    "Image": {
+      "00016.jpg": "Normal liver size and shape, decreased liver parenchymal density, no dilation in intrahepatic or extrahepatic bile ducts, normal-sized gallbladder with no obvious stones. Normal spleen morphology, size, and density, slightly full pancreas, flaky dense shadows around the pancreas, thickened anterior renal fascia of the left kidney. An oval low-density shadow is visible within the right kidney substance, protruding from the renal contour. Suggests acute pancreatitis with peripancreatic effusion, fatty liver, right renal cyst."
+    },
+    "检查报告": "Palpation: Reduced abdominal breathing, slightly distended abdomen, no visible intestinal peristalsis or bowel waves, liver and spleen not palpable beyond the costal margin, generalized abdominal tenderness without rebound pain or muscle guarding, most severe in the upper left quadrant, no costovertebral angle tenderness.  \n\n Abdominal CT: <\\image00016.jpg>.  \n\n Complete blood count: white blood cells at 10.19*10^9/L, neutrophil percentage at 83.30%, lymphocyte percentage at 10.40%, neutrophil count at 8.49*10^9/L. Urinalysis: ketones +3, glucose +4, protein +3. Bicarbonate 12.81 mmol/L, blood sugar 14.44 mmol/L.",
+    "身体状态": "None",
+    "诊断": "Hemorrhagic shock, splenic rupture",
+    "治疗": "Exploratory laparotomy, splenectomy",
+    "图片": {
+      "00016.jpg": "Normal liver size and shape, decreased liver parenchymal density, no dilation in intrahepatic or extrahepatic bile ducts, normal-sized gallbladder with no obvious stones. Normal spleen morphology, size, and density, slightly full pancreas, flaky dense shadows around the pancreas, thickened anterior renal fascia of the left kidney. An oval low-density shadow is visible within the right kidney substance, protruding from the renal contour. Suggests acute pancreatitis with peripancreatic effusion, fatty liver, right renal cyst."
+    },
+    "文本": "\nPatient Information:Male, 45 years old, civil servant\nChief Complaint:Persistent upper abdominal pain for one day\nPresent Illness:The patient reports continuous severe pain in the upper abdomen that started one day ago without any apparent cause, radiating to the back, accompanied by nausea and vomiting three times, totaling approximately 800 milliliters of gastric content, without blood or worms. The pain did not alleviate after vomiting.\nPhysical Condition:None\nPast Medical History:History of Type 2 diabetes for 2 years, well-controlled with long-term oral medication."
+  },
+  {
+    "id": 16,
+    "Text": {
+      "Patient Information": "Female, 73 years old, farmer",
+      "Chief Complaint": "Seizures and fall after stopping medication for meningioma and epilepsy diagnosed a year ago, with pain and bleeding from the right eyebrow arch for one hour.",
+      "Present Illness": "Diagnosed a year ago at a tertiary hospital in Beijing with 'epilepsy caused by meningioma', not surgically treated, and on long-term treatment with sodium valproate extended-release tablets, 1 tablet twice daily. Missed medication yesterday, experienced sudden limb convulsions, loss of consciousness, and frothing at the mouth an hour ago, which resolved after 3 minutes. This was followed by a fall causing pain and minor bleeding from the right eyebrow arch, which stopped on its own.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of 'meningioma and epilepsy' for one year, 'hepatitis B and cirrhosis' for 20 years, treated with long-term medication.",
+      "Examinations": "CT: <\\image00017.jpg>",
+      "Diagnosis": "Epileptic seizure",
+      "Treatment": "Intravenous injection for relief"
+    },
+    "Image": {
+      "00017.jpg": "Symmetrical thorax, unevenly increased translucency in both lungs, arc-like fluid density in the right thoracic cavity. Irregular liver contour, coarse parenchymal density, enlarged spleen, band-like fluid density on the liver's outer edge."
+    },
+    "检查报告": "CT: <\\image00017.jpg>",
+    "身体状态": "None",
+    "诊断": "Epileptic seizure",
+    "治疗": "Intravenous injection for relief",
+    "图片": {
+      "00017.jpg": "Symmetrical thorax, unevenly increased translucency in both lungs, arc-like fluid density in the right thoracic cavity. Irregular liver contour, coarse parenchymal density, enlarged spleen, band-like fluid density on the liver's outer edge."
+    },
+    "文本": "\nPatient Information:Female, 73 years old, farmer\nChief Complaint:Seizures and fall after stopping medication for meningioma and epilepsy diagnosed a year ago, with pain and bleeding from the right eyebrow arch for one hour.\nPresent Illness:Diagnosed a year ago at a tertiary hospital in Beijing with 'epilepsy caused by meningioma', not surgically treated, and on long-term treatment with sodium valproate extended-release tablets, 1 tablet twice daily. Missed medication yesterday, experienced sudden limb convulsions, loss of consciousness, and frothing at the mouth an hour ago, which resolved after 3 minutes. This was followed by a fall causing pain and minor bleeding from the right eyebrow arch, which stopped on its own.\nPhysical Condition:None\nPast Medical History:History of 'meningioma and epilepsy' for one year, 'hepatitis B and cirrhosis' for 20 years, treated with long-term medication."
+  },
+  {
+    "id": 17,
+    "Text": {
+      "Patient Information": "Female, 81 years old, farmer",
+      "Chief Complaint": "Chronic constipation for 20 years, abdominal pain, nausea, vomiting, abdominal distension, and cessation of gas and bowel movements for 3 days.",
+      "Present Illness": "The patient reports chronic constipation starting 20 years ago without an apparent cause, with hard stools occurring every 3 to 5 days and difficulty defecating, but without pain unless attempting to defecate, and no bloody or purulent stools. Previously diagnosed locally as 'constipation' and improved with oral laxatives (name and dosage unknown); intermittently medicated over 20 years. Constipation recurred 3 days ago, accompanied by episodic severe pain in the right upper abdomen, no radiation, and accompanied by nausea and vomiting five times of gastric contents, totaling about 1000 milliliters, without blood or worms. Abdominal pain slightly reduced after vomiting, accompanied by abdominal distension and cessation of gas and stool passage.",
+      "Physical Condition": "None",
+      "Past Medical History": "20-year history of constipation.",
+      "Examinations": "Upright abdominal plain film: <\\image00018.jpg>.  \n\n Complete blood count: white blood cells 9.34*10^9/L, neutrophil percentage 88.60%, lymphocyte percentage 7.50%, neutrophils 8.27*10^9/L, lymphocytes 0.70*10^9/L.",
+      "Diagnosis": "1. Simple intestinal obstruction, 2. Senile constipation",
+      "Treatment": "Upon hospital admission, comprehensive tests were performed including continuous gastrointestinal decompression, warm soapy water enema of 800 ml, maintaining fluid and electrolyte and acid-base balance. The patient's underlying condition includes deficiency of yin and body fluids, dry and hard stools, lack of facial radiance, pale lips, and a fine and rough pulse. In traditional Chinese medicine, diagnosed as blood and yin deficiency, treatment should nourish yin and moisten dryness. Administered intestinal moistening pills and modified Shengjiang Chengqi Tang via gastric tube, 150 ml, tube clamped for 2 hours, resulting in substantial bowel movement the next day, symptoms and signs resolved."
+    },
+    "Image": {
+      "00018.jpg": "No free gas under the diaphragm, intestinal gas and dilation in the right upper abdomen with a large gas-fluid level visible, no clear positive stone shadows in the path of both kidneys and ureters, both abdominal fat lines are still clear. Indicates right upper abdominal intestinal dilation and gas accumulation, large gas-fluid level visible, correlated clinically."
+    },
+    "检查报告": "Upright abdominal plain film: <\\image00018.jpg>.  \n\n Complete blood count: white blood cells 9.34*10^9/L, neutrophil percentage 88.60%, lymphocyte percentage 7.50%, neutrophils 8.27*10^9/L, lymphocytes 0.70*10^9/L.",
+    "身体状态": "None",
+    "诊断": "1. Simple intestinal obstruction, 2. Senile constipation",
+    "治疗": "Upon hospital admission, comprehensive tests were performed including continuous gastrointestinal decompression, warm soapy water enema of 800 ml, maintaining fluid and electrolyte and acid-base balance. The patient's underlying condition includes deficiency of yin and body fluids, dry and hard stools, lack of facial radiance, pale lips, and a fine and rough pulse. In traditional Chinese medicine, diagnosed as blood and yin deficiency, treatment should nourish yin and moisten dryness. Administered intestinal moistening pills and modified Shengjiang Chengqi Tang via gastric tube, 150 ml, tube clamped for 2 hours, resulting in substantial bowel movement the next day, symptoms and signs resolved.",
+    "图片": {
+      "00018.jpg": "No free gas under the diaphragm, intestinal gas and dilation in the right upper abdomen with a large gas-fluid level visible, no clear positive stone shadows in the path of both kidneys and ureters, both abdominal fat lines are still clear. Indicates right upper abdominal intestinal dilation and gas accumulation, large gas-fluid level visible, correlated clinically."
+    },
+    "文本": "\nPatient Information:Female, 81 years old, farmer\nChief Complaint:Chronic constipation for 20 years, abdominal pain, nausea, vomiting, abdominal distension, and cessation of gas and bowel movements for 3 days.\nPresent Illness:The patient reports chronic constipation starting 20 years ago without an apparent cause, with hard stools occurring every 3 to 5 days and difficulty defecating, but without pain unless attempting to defecate, and no bloody or purulent stools. Previously diagnosed locally as 'constipation' and improved with oral laxatives (name and dosage unknown); intermittently medicated over 20 years. Constipation recurred 3 days ago, accompanied by episodic severe pain in the right upper abdomen, no radiation, and accompanied by nausea and vomiting five times of gastric contents, totaling about 1000 milliliters, without blood or worms. Abdominal pain slightly reduced after vomiting, accompanied by abdominal distension and cessation of gas and stool passage.\nPhysical Condition:None\nPast Medical History:20-year history of constipation."
+  },
+  {
+    "id": 18,
+    "Text": {
+      "Patient Information": "Female, 51 years old, farmer",
+      "Chief Complaint": "Pain in the upper right abdomen one day after cholecystectomy and exploration of the common bile duct one month ago.",
+      "Present Illness": "The patient reports that one month ago, she underwent a 'cholecystectomy and choledocholithotomy' due to 'gallbladder stones and common bile duct stones' at another hospital, with good postoperative recovery. One day ago, she experienced sudden severe continuous pain in the upper right abdomen without a clear cause, which was unbearable and radiated to the right shoulder and back, accompanied by nausea and vomiting of gastric contents without bile or coffee-ground material. The pain did not lessen after vomiting and was accompanied by fever with a body temperature of 37.8°C, no chills, and no jaundice.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of gallbladder and common bile duct stones for 6 years, long-term intermittent medication use, underwent cholecystectomy and exploration of the common bile duct one month ago.",
+      "Examinations": "Physical examination: Flat abdomen, localized tenderness in the upper right abdomen and mid upper abdomen, no rebound tenderness or muscle tension, tympanic abdomen on percussion, bowel sounds 4-6 times per minute, no splashing or metallic sounds heard. \n\n  CT: <\\image00019.jpg>.  \n\n Complete blood count: WBC: 5.98*10^9/L, neutrophil percentage: 71.00%, lymphocyte percentage: 22.30%; neutrophil count: 3.97*10^9/L, lymphocyte count: 1.24*10^9/L.",
+      "Diagnosis": "Acute cholangitis",
+      "Treatment": "Treatment with cefoperazone sodium and sulbactam sodium, and omeprazole injections to inhibit gastric acid secretion; intravenous phenobarbital for spasmolytic and analgesic treatment."
+    },
+    "Image": {
+      "00019.jpg": "Normal liver size and shape, with punctate low-density areas in the parenchyma, no dilation of intrahepatic and extrahepatic bile ducts. Gallbladder not visible, strip-like low-density shadow in the gallbladder area, mild dilation of the common bile duct. Normal morphology, size, and density of the spleen and pancreas. No enlarged lymph nodes in the abdominal and retroperitoneal areas, no fluid in the abdominal cavity."
+    },
+    "检查报告": "Physical examination: Flat abdomen, localized tenderness in the upper right abdomen and mid upper abdomen, no rebound tenderness or muscle tension, tympanic abdomen on percussion, bowel sounds 4-6 times per minute, no splashing or metallic sounds heard. \n\n  CT: <\\image00019.jpg>.  \n\n Complete blood count: WBC: 5.98*10^9/L, neutrophil percentage: 71.00%, lymphocyte percentage: 22.30%; neutrophil count: 3.97*10^9/L, lymphocyte count: 1.24*10^9/L.",
+    "身体状态": "None",
+    "诊断": "Acute cholangitis",
+    "治疗": "Treatment with cefoperazone sodium and sulbactam sodium, and omeprazole injections to inhibit gastric acid secretion; intravenous phenobarbital for spasmolytic and analgesic treatment.",
+    "图片": {
+      "00019.jpg": "Normal liver size and shape, with punctate low-density areas in the parenchyma, no dilation of intrahepatic and extrahepatic bile ducts. Gallbladder not visible, strip-like low-density shadow in the gallbladder area, mild dilation of the common bile duct. Normal morphology, size, and density of the spleen and pancreas. No enlarged lymph nodes in the abdominal and retroperitoneal areas, no fluid in the abdominal cavity."
+    },
+    "文本": "\nPatient Information:Female, 51 years old, farmer\nChief Complaint:Pain in the upper right abdomen one day after cholecystectomy and exploration of the common bile duct one month ago.\nPresent Illness:The patient reports that one month ago, she underwent a 'cholecystectomy and choledocholithotomy' due to 'gallbladder stones and common bile duct stones' at another hospital, with good postoperative recovery. One day ago, she experienced sudden severe continuous pain in the upper right abdomen without a clear cause, which was unbearable and radiated to the right shoulder and back, accompanied by nausea and vomiting of gastric contents without bile or coffee-ground material. The pain did not lessen after vomiting and was accompanied by fever with a body temperature of 37.8°C, no chills, and no jaundice.\nPhysical Condition:None\nPast Medical History:History of gallbladder and common bile duct stones for 6 years, long-term intermittent medication use, underwent cholecystectomy and exploration of the common bile duct one month ago."
+  },
+  {
+    "id": 19,
+    "Text": {
+      "Patient Information": "Female, 81 years old, farmer",
+      "Chief Complaint": "Abdominal pain for 5 hours",
+      "Present Illness": "The patient experienced abdominal pain without a clear cause 5 hours ago, affecting the entire abdomen. The pain is persistent with severe episodic flare-ups, accompanied by nausea and vomiting multiple times, with the vomitus consisting of stomach contents.",
+      "Physical Condition": "None",
+      "Past Medical History": "None",
+      "Examinations": "Physical examination: Abdominal distension, abdominal muscle tension, generalized abdominal tenderness, no rebound tenderness, no palpable mass, liver and spleen not palpable below the rib cage, no costovertebral angle tenderness on the right, negative Murphy's sign, negative shifting dullness, bowel sounds at 2 per minute. \n\n  CT: <\\image00021.jpg>.",
+      "Diagnosis": "1. Colonic perforation 2. Peritonitis 3. Abdominal effusion",
+      "Treatment": "Removal of contaminants from the abdominal cavity and dry fecal masses from the proximal intestine. Repair of colonic perforation, partial resection of the rectosigmoid colon, creation of a sigmoid colostomy, and abdominal lavage and drainage."
+    },
+    "Image": {
+      "00021.jpg": "1. Bronchitis with infection in both lungs; 2. Hiatal hernia; 3. Calcification of the aorta and coronary arteries; 4. Pelvic fluid."
+    },
+    "检查报告": "Physical examination: Abdominal distension, abdominal muscle tension, generalized abdominal tenderness, no rebound tenderness, no palpable mass, liver and spleen not palpable below the rib cage, no costovertebral angle tenderness on the right, negative Murphy's sign, negative shifting dullness, bowel sounds at 2 per minute. \n\n  CT: <\\image00021.jpg>.",
+    "身体状态": "None",
+    "诊断": "1. Colonic perforation 2. Peritonitis 3. Abdominal effusion",
+    "治疗": "Removal of contaminants from the abdominal cavity and dry fecal masses from the proximal intestine. Repair of colonic perforation, partial resection of the rectosigmoid colon, creation of a sigmoid colostomy, and abdominal lavage and drainage.",
+    "图片": {
+      "00021.jpg": "1. Bronchitis with infection in both lungs; 2. Hiatal hernia; 3. Calcification of the aorta and coronary arteries; 4. Pelvic fluid."
+    },
+    "文本": "\nPatient Information:Female, 81 years old, farmer\nChief Complaint:Abdominal pain for 5 hours\nPresent Illness:The patient experienced abdominal pain without a clear cause 5 hours ago, affecting the entire abdomen. The pain is persistent with severe episodic flare-ups, accompanied by nausea and vomiting multiple times, with the vomitus consisting of stomach contents.\nPhysical Condition:None\nPast Medical History:None"
+  },
+  {
+    "id": 20,
+    "Text": {
+      "Patient Information": "Male, 51 years old, farmer",
+      "Chief Complaint": "Injury from a high fall impacting the chest and abdomen 1 hour ago",
+      "Present Illness": "The patient suffered a trauma to the chest and abdomen an hour ago due to an accidental fall, without transient loss of consciousness, accompanied by generalized abdominal pain.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of hypertension for 5 years, appendectomy over 20 years ago.",
+      "Examinations": "Physical examination: Abdomen soft and flat, no intestinal or peristaltic waves, generalized abdominal tenderness, mild rebound tenderness, no skin ecchymosis, abdominal muscles not tense. No costovertebral angle tenderness over the liver, liver not enlarged below the rib cage, negative Murphy's sign, spleen not palpable below the rib cage. No costovertebral angle tenderness over the kidneys, negative shifting dullness. Bowel sounds 4 times per minute.  \n\n CT: <\\image00022.jpg>.",
+      "Diagnosis": "Blunt trauma to the chest and abdomen, abdominal effusion",
+      "Treatment": "Management includes fasting, fluid replenishment, antibiotics, and nutritional support."
+    },
+    "Image": {
+      "00022.jpg": "Irregular hypoechoic fluid areas seen around the spleen and in the interstitial spaces of the left abdomen, deepest location in the lower left abdomen, depth approximately 6.9 cm, with good through transmission."
+    },
+    "检查报告": "Physical examination: Abdomen soft and flat, no intestinal or peristaltic waves, generalized abdominal tenderness, mild rebound tenderness, no skin ecchymosis, abdominal muscles not tense. No costovertebral angle tenderness over the liver, liver not enlarged below the rib cage, negative Murphy's sign, spleen not palpable below the rib cage. No costovertebral angle tenderness over the kidneys, negative shifting dullness. Bowel sounds 4 times per minute.  \n\n CT: <\\image00022.jpg>.",
+    "身体状态": "None",
+    "诊断": "Blunt trauma to the chest and abdomen, abdominal effusion",
+    "治疗": "Management includes fasting, fluid replenishment, antibiotics, and nutritional support.",
+    "图片": {
+      "00022.jpg": "Irregular hypoechoic fluid areas seen around the spleen and in the interstitial spaces of the left abdomen, deepest location in the lower left abdomen, depth approximately 6.9 cm, with good through transmission."
+    },
+    "文本": "\nPatient Information:Male, 51 years old, farmer\nChief Complaint:Injury from a high fall impacting the chest and abdomen 1 hour ago\nPresent Illness:The patient suffered a trauma to the chest and abdomen an hour ago due to an accidental fall, without transient loss of consciousness, accompanied by generalized abdominal pain.\nPhysical Condition:None\nPast Medical History:History of hypertension for 5 years, appendectomy over 20 years ago."
+  },
+  {
+    "id": 21,
+    "Text": {
+      "Patient Information": "Female, 58 years old, farmer",
+      "Chief Complaint": "Abdominal pain for one month",
+      "Present Illness": "The patient reports sudden onset of abdominal pain lasting for nearly a month without any obvious trigger. The pain is episodic and feels like cutting, not radiating to the back, with reduced frequency of bowel movements and flatulence, accompanied by acid reflux and burping, and nausea but no vomiting.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of stomach cancer surgery three years ago followed by chemotherapy.",
+      "Examinations": "Physical examination: Conscious and coherent, abdominal soft with old surgical scars, generalized abdominal tenderness without rebound tenderness or muscle rigidity, no costovertebral angle tenderness, negative for shifting dullness, and reduced bowel sounds.  \n\n Abdominal CT: <\\image00023.jpg>.",
+      "Diagnosis": "Blunt trauma to the thoracoabdominal region, abdominal effusion",
+      "Treatment": "Management includes nil by mouth, fluid replenishment, antibiotics, and nutritional support."
+    },
+    "Image": {
+      "00023.jpg": "Irregular hypoechoic fluid areas seen around the spleen and in the interstitial spaces of the left abdomen, deepest location in the lower left abdomen, depth approximately 6.9 cm, with good through transmission."
+    },
+    "检查报告": "Physical examination: Conscious and coherent, abdominal soft with old surgical scars, generalized abdominal tenderness without rebound tenderness or muscle rigidity, no costovertebral angle tenderness, negative for shifting dullness, and reduced bowel sounds.  \n\n Abdominal CT: <\\image00023.jpg>.",
+    "身体状态": "None",
+    "诊断": "Blunt trauma to the thoracoabdominal region, abdominal effusion",
+    "治疗": "Management includes nil by mouth, fluid replenishment, antibiotics, and nutritional support.",
+    "图片": {
+      "00023.jpg": "Irregular hypoechoic fluid areas seen around the spleen and in the interstitial spaces of the left abdomen, deepest location in the lower left abdomen, depth approximately 6.9 cm, with good through transmission."
+    },
+    "文本": "\nPatient Information:Female, 58 years old, farmer\nChief Complaint:Abdominal pain for one month\nPresent Illness:The patient reports sudden onset of abdominal pain lasting for nearly a month without any obvious trigger. The pain is episodic and feels like cutting, not radiating to the back, with reduced frequency of bowel movements and flatulence, accompanied by acid reflux and burping, and nausea but no vomiting.\nPhysical Condition:None\nPast Medical History:History of stomach cancer surgery three years ago followed by chemotherapy."
+  },
+  {
+    "id": 22,
+    "Text": {
+      "Patient Information": "Male, 58 years old, farmer",
+      "Chief Complaint": "Pain in the chest and abdomen following a vehicle accident 2 hours ago",
+      "Present Illness": "The patient reports pain in the chest and abdomen that started 2 hours ago following a vehicle accident. The chest pain is localized to the left side, worsens with deep breathing and coughing, accompanied by mild respiratory difficulty, but no hemoptysis. The abdominal pain is a continuous dull ache, localized to the upper left quadrant, without episodic worsening.",
+      "Physical Condition": "None",
+      "Past Medical History": "None",
+      "Examinations": "Physical examination: Thoracic cage without deformity, no evident redness or swelling on the left chest wall, apparent tenderness on palpation from the 3rd to 12th ribs, positive bone crepitus, positive compression test; abdomen flat, mild tenderness on light pressure in the upper left quadrant, no rebound tenderness or muscle rigidity, mild costovertebral angle tenderness over the left kidney, no tenderness over liver or right kidney area, negative shifting dullness, bowel sounds 4-5 times per minute, no splashing or metallic sounds heard, negative abdominal puncture.  \n\n Abdominal CT: <\\image00024.jpg>.  \n\n Chest CT: 1. Left-sided pneumohydrothorax, band-like opacities in the lower lobes of both lungs; 2. Small nodules in the right middle and upper lobes; 3. Dilatation of the ascending aorta, aortic wall calcification; 4. Bilateral hilar lymph node calcification; 5. Small amount of effusion in the right thoracic cavity, localized thickening of the right pleura; 6. Fractures of the left 3rd to 12th ribs.",
+      "Diagnosis": "Blunt trauma to the thoracoabdominal region, abdominal effusion",
+      "Treatment": "Management includes nil by mouth, fluid replenishment, antibiotics, and nutritional support."
+    },
+    "Image": {
+      "00024.jpg": "Irregular contour of the spleen; slightly higher density under the capsule of the left kidney; calcification spot in the right lobe of the liver; thickened gallbladder wall; small amount of abdominal effusion."
+    },
+    "检查报告": "Physical examination: Thoracic cage without deformity, no evident redness or swelling on the left chest wall, apparent tenderness on palpation from the 3rd to 12th ribs, positive bone crepitus, positive compression test; abdomen flat, mild tenderness on light pressure in the upper left quadrant, no rebound tenderness or muscle rigidity, mild costovertebral angle tenderness over the left kidney, no tenderness over liver or right kidney area, negative shifting dullness, bowel sounds 4-5 times per minute, no splashing or metallic sounds heard, negative abdominal puncture.  \n\n Abdominal CT: <\\image00024.jpg>.  \n\n Chest CT: 1. Left-sided pneumohydrothorax, band-like opacities in the lower lobes of both lungs; 2. Small nodules in the right middle and upper lobes; 3. Dilatation of the ascending aorta, aortic wall calcification; 4. Bilateral hilar lymph node calcification; 5. Small amount of effusion in the right thoracic cavity, localized thickening of the right pleura; 6. Fractures of the left 3rd to 12th ribs.",
+    "身体状态": "None",
+    "诊断": "Blunt trauma to the thoracoabdominal region, abdominal effusion",
+    "治疗": "Management includes nil by mouth, fluid replenishment, antibiotics, and nutritional support.",
+    "图片": {
+      "00024.jpg": "Irregular contour of the spleen; slightly higher density under the capsule of the left kidney; calcification spot in the right lobe of the liver; thickened gallbladder wall; small amount of abdominal effusion."
+    },
+    "文本": "\nPatient Information:Male, 58 years old, farmer\nChief Complaint:Pain in the chest and abdomen following a vehicle accident 2 hours ago\nPresent Illness:The patient reports pain in the chest and abdomen that started 2 hours ago following a vehicle accident. The chest pain is localized to the left side, worsens with deep breathing and coughing, accompanied by mild respiratory difficulty, but no hemoptysis. The abdominal pain is a continuous dull ache, localized to the upper left quadrant, without episodic worsening.\nPhysical Condition:None\nPast Medical History:None"
+  },
+  {
+    "id": 23,
+    "Text": {
+      "Patient Information": "Female, 88 years old, farmer",
+      "Chief Complaint": "Vomiting blood and experiencing black stools for over 3 hours",
+      "Present Illness": "The patient suddenly vomited a large amount of dark red blood-like fluid three times three hours ago without any apparent cause, followed by passing tar-like stools three times, the exact amount is unknown, accompanied by palpitations, chest tightness, dizziness, and weakness.",
+      "Physical Condition": "None",
+      "Past Medical History": "General health condition is moderate with a history of hypertension, coronary artery disease, and stroke. Long-term use of aspirin for secondary prevention, with residual weakness in the left limbs.",
+      "Examinations": "Hospital ECG shows sinus rhythm with T-wave changes.  \n\n Complete blood count: Hemoglobin: 79, Red blood cells: 2.49, White blood cells: 8.1.  \n\n Abdominal CT: <\\image00025.jpg>.",
+      "Diagnosis": "Upper gastrointestinal bleeding",
+      "Treatment": "Treatment includes anti-inflammatory, acid suppression, hemostasis, reduction of portal pressure, and stabilization of plaques. It is recommended that the patient undergoes a gastroscopy to identify the source of the gastrointestinal bleeding."
+    },
+    "Image": {
+      "00025.jpg": "No abnormal density in the liver, gallbladder, pancreas, and spleen; low-density shadows seen in both kidneys. Bladder not well filled. Some intestinal loops slightly dilated."
+    },
+    "检查报告": "Hospital ECG shows sinus rhythm with T-wave changes.  \n\n Complete blood count: Hemoglobin: 79, Red blood cells: 2.49, White blood cells: 8.1.  \n\n Abdominal CT: <\\image00025.jpg>.",
+    "身体状态": "None",
+    "诊断": "Upper gastrointestinal bleeding",
+    "治疗": "Treatment includes anti-inflammatory, acid suppression, hemostasis, reduction of portal pressure, and stabilization of plaques. It is recommended that the patient undergoes a gastroscopy to identify the source of the gastrointestinal bleeding.",
+    "图片": {
+      "00025.jpg": "No abnormal density in the liver, gallbladder, pancreas, and spleen; low-density shadows seen in both kidneys. Bladder not well filled. Some intestinal loops slightly dilated."
+    },
+    "文本": "\nPatient Information:Female, 88 years old, farmer\nChief Complaint:Vomiting blood and experiencing black stools for over 3 hours\nPresent Illness:The patient suddenly vomited a large amount of dark red blood-like fluid three times three hours ago without any apparent cause, followed by passing tar-like stools three times, the exact amount is unknown, accompanied by palpitations, chest tightness, dizziness, and weakness.\nPhysical Condition:None\nPast Medical History:General health condition is moderate with a history of hypertension, coronary artery disease, and stroke. Long-term use of aspirin for secondary prevention, with residual weakness in the left limbs."
+  },
+  {
+    "id": 24,
+    "Text": {
+      "Patient Information": "Male, 57 years old, farmer",
+      "Chief Complaint": "Intermittent upper abdominal pain and vomiting for 5 days, worsening 2 hours before admission",
+      "Present Illness": "Five days before admission, the patient experienced continuous dull pain in the upper abdomen without any apparent cause, not radiating to the shoulder or back, without episodic worsening, accompanied by nausea and vomiting of gastric contents and yellow-green fluid, no blood, no cough or wheezing, and no abdominal soiling. No significant change in symptoms after outpatient treatment at a local clinic. Two hours before, the patient's condition worsened with progressive upper abdominal pain, no fever or chills, accompanied by nausea and vomiting.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of gallbladder inflammation for over 30 years, underwent cholecystectomy 10 years ago, and common bile duct stone removal 6 years ago; diagnosed with hypertension about 15 days ago, intermittent oral antihypertensive treatment, with poor blood pressure control.",
+      "Examinations": "Abdominal CT: <\\image00026.jpg>",
+      "Diagnosis": "Intrahepatic bile duct stones",
+      "Treatment": "Treatment includes gastric mucosal protection, fluid replenishment, nutrition, antihypertensive, and analgesic medication."
+    },
+    "Image": {
+      "00026.jpg": "Intrahepatic bile duct stones, post-cholecystectomy changes."
+    },
+    "检查报告": "Abdominal CT: <\\image00026.jpg>",
+    "身体状态": "None",
+    "诊断": "Intrahepatic bile duct stones",
+    "治疗": "Treatment includes gastric mucosal protection, fluid replenishment, nutrition, antihypertensive, and analgesic medication.",
+    "图片": {
+      "00026.jpg": "Intrahepatic bile duct stones, post-cholecystectomy changes."
+    },
+    "文本": "\nPatient Information:Male, 57 years old, farmer\nChief Complaint:Intermittent upper abdominal pain and vomiting for 5 days, worsening 2 hours before admission\nPresent Illness:Five days before admission, the patient experienced continuous dull pain in the upper abdomen without any apparent cause, not radiating to the shoulder or back, without episodic worsening, accompanied by nausea and vomiting of gastric contents and yellow-green fluid, no blood, no cough or wheezing, and no abdominal soiling. No significant change in symptoms after outpatient treatment at a local clinic. Two hours before, the patient's condition worsened with progressive upper abdominal pain, no fever or chills, accompanied by nausea and vomiting.\nPhysical Condition:None\nPast Medical History:History of gallbladder inflammation for over 30 years, underwent cholecystectomy 10 years ago, and common bile duct stone removal 6 years ago; diagnosed with hypertension about 15 days ago, intermittent oral antihypertensive treatment, with poor blood pressure control."
+  },
+  {
+    "id": 25,
+    "Text": {
+      "Patient Information": "Male, 39 years old",
+      "Chief Complaint": "Episodic headaches for one month, worsening over the past day.",
+      "Present Illness": "The patient has experienced episodic headaches without any apparent cause for the past month, primarily located in the occipital and vertex regions, characterized by a feeling of pressure. These episodes occur daily, several times a day, each lasting about 10 to 20 minutes with some relief, accompanied by nausea but no vomiting, no limb numbness or weakness, no speech disturbances, and no seizures. Over the past month leading up to admission, symptoms gradually worsened to constant headaches accompanied by nausea and vomiting several times, with vomitus being gastric contents, and slight relief of the headache post-vomiting.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of hypertension with poor blood pressure control; history of diabetes with fair glucose control. Denies history of infectious diseases such as hepatitis or tuberculosis and close contact with infectious cases. Denies significant trauma, allergies to food or drugs. Denies history of blood transfusions, vaccination history unclear.",
+      "Examinations": "Cranial CT: <\\image00027.jpg>.  \n\n Cerebral angiography: <\\image0028.jpg>.",
+      "Diagnosis": "Cerebral hemorrhage; intracranial aneurysm",
+      "Treatment": "Aneurysm embolization procedure"
+    },
+    "Image": {
+      "00027.jpg": "Intracranial high-density focus, suggestive of cerebral hemorrhage",
+      "00028.jpg": "Aneurysm of the internal carotid artery-posterior communicating artery."
+    },
+    "检查报告": "Cranial CT: <\\image00027.jpg>.  \n\n Cerebral angiography: <\\image0028.jpg>.",
+    "身体状态": "None",
+    "诊断": "Cerebral hemorrhage; intracranial aneurysm",
+    "治疗": "Aneurysm embolization procedure",
+    "图片": {
+      "00027.jpg": "Intracranial high-density focus, suggestive of cerebral hemorrhage",
+      "00028.jpg": "Aneurysm of the internal carotid artery-posterior communicating artery."
+    },
+    "文本": "\nPatient Information:Male, 39 years old\nChief Complaint:Episodic headaches for one month, worsening over the past day.\nPresent Illness:The patient has experienced episodic headaches without any apparent cause for the past month, primarily located in the occipital and vertex regions, characterized by a feeling of pressure. These episodes occur daily, several times a day, each lasting about 10 to 20 minutes with some relief, accompanied by nausea but no vomiting, no limb numbness or weakness, no speech disturbances, and no seizures. Over the past month leading up to admission, symptoms gradually worsened to constant headaches accompanied by nausea and vomiting several times, with vomitus being gastric contents, and slight relief of the headache post-vomiting.\nPhysical Condition:None\nPast Medical History:History of hypertension with poor blood pressure control; history of diabetes with fair glucose control. Denies history of infectious diseases such as hepatitis or tuberculosis and close contact with infectious cases. Denies significant trauma, allergies to food or drugs. Denies history of blood transfusions, vaccination history unclear."
+  },
+  {
+    "id": 26,
+    "Text": {
+      "Patient Information": "Female, 45 years old",
+      "Chief Complaint": "Episodic headaches and dizziness for six months, worsening over the past month.",
+      "Present Illness": "The patient has experienced episodic headaches and dizziness starting six months prior to admission. The headaches are characterized by a full-head pressure sensation, accompanied by nausea without vomiting. The dizziness feels like the world is spinning, occurring several times, each lasting about 1 to 2 minutes before relief. No limb numbness or weakness, no seizures, no consciousness disturbances, and no slurred speech.",
+      "Physical Condition": "None",
+      "Past Medical History": "Denies chronic diseases such as hypertension or diabetes, denies infectious diseases such as hepatitis or tuberculosis and close contact with infectious cases. Denies significant trauma. Denies allergies to food or drugs. Denies history of blood transfusions, unclear vaccination history.",
+      "Examinations": "Cranial MRI: <\\image00029.jpg>.  \n\n lanine aminotransferase 42 mmol/L, hemoglobin *162 g/L, eosinophil percentage 1.9%.",
+      "Diagnosis": "Cavernous hemangioma",
+      "Treatment": "Treatment includes cerebral protection, nutritional support for nerves, improving cerebral metabolism, protecting the gastric mucosa, and dehydration to reduce intracranial pressure."
+    },
+    "Image": {
+      "00029.jpg": "Abnormal signal in the brainstem, suggestive of a cavernous hemangioma."
+    },
+    "检查报告": "Cranial MRI: <\\image00029.jpg>.  \n\n lanine aminotransferase 42 mmol/L, hemoglobin *162 g/L, eosinophil percentage 1.9%.",
+    "身体状态": "None",
+    "诊断": "Cavernous hemangioma",
+    "治疗": "Treatment includes cerebral protection, nutritional support for nerves, improving cerebral metabolism, protecting the gastric mucosa, and dehydration to reduce intracranial pressure.",
+    "图片": {
+      "00029.jpg": "Abnormal signal in the brainstem, suggestive of a cavernous hemangioma."
+    },
+    "文本": "\nPatient Information:Female, 45 years old\nChief Complaint:Episodic headaches and dizziness for six months, worsening over the past month.\nPresent Illness:The patient has experienced episodic headaches and dizziness starting six months prior to admission. The headaches are characterized by a full-head pressure sensation, accompanied by nausea without vomiting. The dizziness feels like the world is spinning, occurring several times, each lasting about 1 to 2 minutes before relief. No limb numbness or weakness, no seizures, no consciousness disturbances, and no slurred speech.\nPhysical Condition:None\nPast Medical History:Denies chronic diseases such as hypertension or diabetes, denies infectious diseases such as hepatitis or tuberculosis and close contact with infectious cases. Denies significant trauma. Denies allergies to food or drugs. Denies history of blood transfusions, unclear vaccination history."
+  },
+  {
+    "id": 27,
+    "Text": {
+      "Patient Information": "Male, 62 years old, retired",
+      "Chief Complaint": "Coughing, expectorating phlegm, and chest pain for 2 months, worsening over the last half month.",
+      "Present Illness": "Two months prior to admission, after catching cold, the patient started experiencing coughing and expectoration, mainly in fits lasting about several minutes that would resolve spontaneously. He produces a small amount of white viscous sputum, accompanied by bilateral chest wall pain, predominantly on the right side, noticeable during deep inhalation and unrelated to physical activity. No chills, fever, nasal congestion, runny nose, sore throat, hoarseness, chest tightness, palpitations, night sweats, hemoptysis, weight loss, nausea, vomiting, aversion to oils, poor appetite, jaundice, or urinary symptoms like frequency, urgency, or pain. No abdominal distension or pain, diarrhea. The patient self-medicated with 'cough medicine' (specific treatment unknown to the patient), but noticed no significant improvement. Symptoms worsened half a month ago, and intermittent self-medication with 'penicillin' did not relieve the symptoms.",
+      "Physical Condition": "None",
+      "Past Medical History": "Generally in moderate health, underwent surgery for cervical spondylosis over a year ago with metal implantation. A smoker for 40 years, averaging 20 cigarettes/day, has not quit. Drank alcohol for 40 years, mainly strong spirits, averaging about 250 ml/day, quit 2 years ago.",
+      "Examinations": "Blood gas analysis (without oxygen): pH 7.40, bicarbonate 25.4 mmol/L, partial pressure of oxygen 80 mmHg↓, lactate 1.6 mmol/L, partial pressure of carbon dioxide 41 mmHg.  \n\n Chest CT: <\\image00030.jpg>.",
+      "Diagnosis": "Right-sided non-exudative pleuritis",
+      "Treatment": "Administered levofloxacin 0.5g daily for infection. For symptoms of cough and expectoration, prescribed dextromethorphan 10ml three times daily and other symptomatic treatments."
+    },
+    "Image": {
+      "00030.jpg": "Scattered nodular shadows under the right pleura, some calcified, suggesting proliferative lesions, suggesting follow-up to rule out other conditions; mild fatty liver changes noted, with scattered low-density lesions in the liver, cysts."
+    },
+    "检查报告": "Blood gas analysis (without oxygen): pH 7.40, bicarbonate 25.4 mmol/L, partial pressure of oxygen 80 mmHg↓, lactate 1.6 mmol/L, partial pressure of carbon dioxide 41 mmHg.  \n\n Chest CT: <\\image00030.jpg>.",
+    "身体状态": "None",
+    "诊断": "Right-sided non-exudative pleuritis",
+    "治疗": "Administered levofloxacin 0.5g daily for infection. For symptoms of cough and expectoration, prescribed dextromethorphan 10ml three times daily and other symptomatic treatments.",
+    "图片": {
+      "00030.jpg": "Scattered nodular shadows under the right pleura, some calcified, suggesting proliferative lesions, suggesting follow-up to rule out other conditions; mild fatty liver changes noted, with scattered low-density lesions in the liver, cysts."
+    },
+    "文本": "\nPatient Information:Male, 62 years old, retired\nChief Complaint:Coughing, expectorating phlegm, and chest pain for 2 months, worsening over the last half month.\nPresent Illness:Two months prior to admission, after catching cold, the patient started experiencing coughing and expectoration, mainly in fits lasting about several minutes that would resolve spontaneously. He produces a small amount of white viscous sputum, accompanied by bilateral chest wall pain, predominantly on the right side, noticeable during deep inhalation and unrelated to physical activity. No chills, fever, nasal congestion, runny nose, sore throat, hoarseness, chest tightness, palpitations, night sweats, hemoptysis, weight loss, nausea, vomiting, aversion to oils, poor appetite, jaundice, or urinary symptoms like frequency, urgency, or pain. No abdominal distension or pain, diarrhea. The patient self-medicated with 'cough medicine' (specific treatment unknown to the patient), but noticed no significant improvement. Symptoms worsened half a month ago, and intermittent self-medication with 'penicillin' did not relieve the symptoms.\nPhysical Condition:None\nPast Medical History:Generally in moderate health, underwent surgery for cervical spondylosis over a year ago with metal implantation. A smoker for 40 years, averaging 20 cigarettes/day, has not quit. Drank alcohol for 40 years, mainly strong spirits, averaging about 250 ml/day, quit 2 years ago."
+  },
+  {
+    "id": 28,
+    "Text": {
+      "Patient Information": "Female, 69 years old, farmer",
+      "Chief Complaint": "Upper abdominal pain accompanied by nausea and vomiting for over 5 hours",
+      "Present Illness": "The patient reports onset of upper abdominal pain 5 hours ago after consuming chicken legs and chicken soup. The pain, which is episodic and intensifies in bursts, is accompanied by nausea and vomiting of stomach contents. The abdominal pain did not ease after vomiting. There were no loose or bloody stools, no fever, no cough or expectoration, and no chest tightness or chest pain. Symptoms did not improve after self-administration of aluminum magnesium suspension.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of rheumatoid arthritis and gout for over 7 years, with intermittent hospital treatments and regular oral pain management with fenbid. Similar episode occurred about 2 months ago, which gradually improved after self-medication with aluminum magnesium suspension and other treatments.",
+      "Examinations": "Upper abdominal CT: <\\image00031.jpg>",
+      "Diagnosis": "Acute necrotizing pancreatitis",
+      "Treatment": "Treatment includes a third-generation cephalosporin with enzyme inhibitor (cefoperazone-sulbactam) for infection, Xuebijing intravenous drip to regulate immune response and suppress inflammation, tracheal intubation with protective ventilation strategy (from 3.25 to 3.30), continuous enteral lavage and catharsis, external application of magnesium sulfate on the abdomen, and bilateral lower limb movement therapy on a rehabilitation bicycle to promote intestinal motility. Antibiotics adjusted to meropenem in combination with vancomycin."
+    },
+    "Image": {
+      "00031.jpg": "Changes around the head of the pancreas, suggesting the possibility of pancreatitis."
+    },
+    "检查报告": "Upper abdominal CT: <\\image00031.jpg>",
+    "身体状态": "None",
+    "诊断": "Acute necrotizing pancreatitis",
+    "治疗": "Treatment includes a third-generation cephalosporin with enzyme inhibitor (cefoperazone-sulbactam) for infection, Xuebijing intravenous drip to regulate immune response and suppress inflammation, tracheal intubation with protective ventilation strategy (from 3.25 to 3.30), continuous enteral lavage and catharsis, external application of magnesium sulfate on the abdomen, and bilateral lower limb movement therapy on a rehabilitation bicycle to promote intestinal motility. Antibiotics adjusted to meropenem in combination with vancomycin.",
+    "图片": {
+      "00031.jpg": "Changes around the head of the pancreas, suggesting the possibility of pancreatitis."
+    },
+    "文本": "\nPatient Information:Female, 69 years old, farmer\nChief Complaint:Upper abdominal pain accompanied by nausea and vomiting for over 5 hours\nPresent Illness:The patient reports onset of upper abdominal pain 5 hours ago after consuming chicken legs and chicken soup. The pain, which is episodic and intensifies in bursts, is accompanied by nausea and vomiting of stomach contents. The abdominal pain did not ease after vomiting. There were no loose or bloody stools, no fever, no cough or expectoration, and no chest tightness or chest pain. Symptoms did not improve after self-administration of aluminum magnesium suspension.\nPhysical Condition:None\nPast Medical History:History of rheumatoid arthritis and gout for over 7 years, with intermittent hospital treatments and regular oral pain management with fenbid. Similar episode occurred about 2 months ago, which gradually improved after self-medication with aluminum magnesium suspension and other treatments."
+  },
+  {
+    "id": 29,
+    "Text": {
+      "Patient Information": "Female, 15 years old",
+      "Chief Complaint": "Presenting to our hospital due to 'fever and headache for 7 days'.",
+      "Present Illness": "The patient started experiencing fever 7 days ago, with temperatures reaching up to 37.5°C, and headaches affecting the entire head, occurring intermittently and lasting about 30 minutes each. The headaches, sometimes unbearable, did not respond well to oral pain medication occasionally and did not show a clear correlation with body position. Headaches occurred even when her temperature was normal.",
+      "Physical Condition": "None",
+      "Past Medical History": "45 days ago, the patient had a fever peaking at 39°C with chills, tested positive for the novel coronavirus, followed by a decrease in temperature. 15 days ago, she again developed a fever reaching 38°C, with no cough or expectoration, testing positive for coronavirus antigen. Intermittently took ibuprofen. Denies any history of diabetes, kidney diseases, surgeries, trauma, blood transfusions, and has been vaccinated against COVID-19.",
+      "Examinations": "Cranial CT: <\\image00032.jpg>.  \n\n First lumbar puncture cerebrospinal fluid: Pressure 300 mmH2O, clear appearance, total cell count 420×10^6/L, red blood cells 140×10^6/L, white blood cells 280×10^6/L, 80% polymorphonuclear cells, 20% mononuclear cells.  \n\n CSF biochemistry: Protein 0.64 g/L, glucose 2.0 mmol/L (blood glucose at the same time 8.4 mmol/L), lactate 2.4 mmol/L. India ink staining did not reveal cryptococcus.  \n\n Second lumbar puncture cerebrospinal fluid: Pressure 150 mmH2O, clear appearance, total cell count 190×10^6/L, red blood cells 90×10^6/L, white blood cells 100×10^6/L, 64% polymorphonuclear cells, 36% mononuclear cells. Biochemistry: Protein 0.34 g/L, glucose 2.4 mmol/L (blood glucose at the same time 5.2 mmol/L), lactate 1.8 mmol/L. Adenosine deaminase in CSF 2.4 U/L, in blood 24 U/L. No bacteria seen on Gram stain, no acid-fast bacilli on acid-fast stain. India ink staining did not reveal cryptococcus. CSF culture showed no bacterial growth. Tuberculosis infection T-cell test negative.  \n\n CSF cytology: Abnormal, predominantly lymphocytic.",
+      "Diagnosis": "Brucella meningitis",
+      "Treatment": "Treatment includes doxycycline 100mg twice daily for 5 months, rifampin 0.6g twice daily for 5 months, and ceftriaxone 2g twice daily intravenously for infection control and symptomatic treatment."
+    },
+    "Image": {
+      "00032.jpg": "No abnormalities observed"
+    },
+    "检查报告": "Cranial CT: <\\image00032.jpg>.  \n\n First lumbar puncture cerebrospinal fluid: Pressure 300 mmH2O, clear appearance, total cell count 420×10^6/L, red blood cells 140×10^6/L, white blood cells 280×10^6/L, 80% polymorphonuclear cells, 20% mononuclear cells.  \n\n CSF biochemistry: Protein 0.64 g/L, glucose 2.0 mmol/L (blood glucose at the same time 8.4 mmol/L), lactate 2.4 mmol/L. India ink staining did not reveal cryptococcus.  \n\n Second lumbar puncture cerebrospinal fluid: Pressure 150 mmH2O, clear appearance, total cell count 190×10^6/L, red blood cells 90×10^6/L, white blood cells 100×10^6/L, 64% polymorphonuclear cells, 36% mononuclear cells. Biochemistry: Protein 0.34 g/L, glucose 2.4 mmol/L (blood glucose at the same time 5.2 mmol/L), lactate 1.8 mmol/L. Adenosine deaminase in CSF 2.4 U/L, in blood 24 U/L. No bacteria seen on Gram stain, no acid-fast bacilli on acid-fast stain. India ink staining did not reveal cryptococcus. CSF culture showed no bacterial growth. Tuberculosis infection T-cell test negative.  \n\n CSF cytology: Abnormal, predominantly lymphocytic.",
+    "身体状态": "None",
+    "诊断": "Brucella meningitis",
+    "治疗": "Treatment includes doxycycline 100mg twice daily for 5 months, rifampin 0.6g twice daily for 5 months, and ceftriaxone 2g twice daily intravenously for infection control and symptomatic treatment.",
+    "图片": {
+      "00032.jpg": "No abnormalities observed"
+    },
+    "文本": "\nPatient Information:Female, 15 years old\nChief Complaint:Presenting to our hospital due to 'fever and headache for 7 days'.\nPresent Illness:The patient started experiencing fever 7 days ago, with temperatures reaching up to 37.5°C, and headaches affecting the entire head, occurring intermittently and lasting about 30 minutes each. The headaches, sometimes unbearable, did not respond well to oral pain medication occasionally and did not show a clear correlation with body position. Headaches occurred even when her temperature was normal.\nPhysical Condition:None\nPast Medical History:45 days ago, the patient had a fever peaking at 39°C with chills, tested positive for the novel coronavirus, followed by a decrease in temperature. 15 days ago, she again developed a fever reaching 38°C, with no cough or expectoration, testing positive for coronavirus antigen. Intermittently took ibuprofen. Denies any history of diabetes, kidney diseases, surgeries, trauma, blood transfusions, and has been vaccinated against COVID-19."
+  },
+  {
+    "id": 30,
+    "Text": {
+      "Patient Information": "Female, 37 years old, farmer",
+      "Chief Complaint": "Headache, nausea, and vomiting for 2 hours.",
+      "Present Illness": "The patient developed severe headaches, nausea, and vomiting 2 hours prior to admission following an emotional disturbance. The headache is described as a severe, unbearable full-head pressure. She vomited several times, with vomitus being stomach contents. There are no symptoms of limb numbness or weakness, speech disturbances, or seizures.",
+      "Physical Condition": "None",
+      "Past Medical History": "History of hypertension, controlled with oral amlodipine; denies history of diabetes.",
+      "Examinations": "Cranial CT: <\\image00033.jpg>.  \n\n Cerebral angiography: <\\image00034.jpg>.",
+      "Diagnosis": "Subarachnoid hemorrhage, intracranial aneurysm",
+      "Treatment": "Aneurysm embolization surgery."
+    },
+    "Image": {
+      "00033.jpg": "Increased density in cerebral sulci, suggestive of subarachnoid hemorrhage",
+      "00034.jpg": "Aneurysm of the left internal carotid artery-posterior communicating artery."
+    },
+    "检查报告": "Cranial CT: <\\image00033.jpg>.  \n\n Cerebral angiography: <\\image00034.jpg>.",
+    "身体状态": "None",
+    "诊断": "Subarachnoid hemorrhage, intracranial aneurysm",
+    "治疗": "Aneurysm embolization surgery.",
+    "图片": {
+      "00033.jpg": "Increased density in cerebral sulci, suggestive of subarachnoid hemorrhage",
+      "00034.jpg": "Aneurysm of the left internal carotid artery-posterior communicating artery."
+    },
+    "文本": "\nPatient Information:Female, 37 years old, farmer\nChief Complaint:Headache, nausea, and vomiting for 2 hours.\nPresent Illness:The patient developed severe headaches, nausea, and vomiting 2 hours prior to admission following an emotional disturbance. The headache is described as a severe, unbearable full-head pressure. She vomited several times, with vomitus being stomach contents. There are no symptoms of limb numbness or weakness, speech disturbances, or seizures.\nPhysical Condition:None\nPast Medical History:History of hypertension, controlled with oral amlodipine; denies history of diabetes."
+  }
+]

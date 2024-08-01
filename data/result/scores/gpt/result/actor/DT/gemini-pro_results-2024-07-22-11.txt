@@ -1,0 +1,211 @@
+
+--------------------------
+case:1
+
+
+Diagnosis score: 4.0  
+Treatment score: 5.0
+--------------------------
+case:2
+
+
+Diagnosis score: 3.8
+Treatment score: 3.5
+--------------------------
+case:3
+
+
+Diagnosis
+score: 2
+
+Treatment
+score: 2.5
+--------------------------
+case:4
+
+
+Diagnosis:
+score: 2
+
+Treatment:
+score: 3.5
+--------------------------
+case:5
+
+
+**Diagnosis score: 4.0**  
+The diagnosis made by the doctor in the summarized case report is "Perforated appendicitis with right lower quadrant abscess," which is an advanced complication of acute appendicitis and correctly identified. However, the summarized report should explicitly reference the initial diagnosis of acute appendicitis before progression to perforation. For consistency and accuracy with the provided case info, this would have earned a perfect score. 
+
+**Treatment score: 5.0**  
+The treatment plan given by the doctor is comprehensive and consistent with the standard treatment for perforated appendicitis. The plan includes hospital admission, intravenous fluids, broad-spectrum antibiotics, surgical consultation, pain management, and close monitoring, which are all appropriate and in line with the usual treatment for this condition.
+--------------------------
+case:6
+
+
+Diagnosis score: 3.7  
+Treatment score: 3.5
+--------------------------
+case:7
+
+
+Diagnosis score: 2.5
+Treatment score: 3.0
+--------------------------
+case:8
+
+
+Diagnosis score: 3  
+Treatment score: 3  
+--------------------------
+case:9
+
+
+Diagnosis score: 1
+Treatment score: 1
+--------------------------
+case:10
+
+
+Diagnosis score: 3.5
+Treatment score: 3.0
+--------------------------
+case:11
+
+
+**Diagnosis:** score: 4
+
+**Treatment:** score: 2.5
+--------------------------
+case:12
+
+
+Diagnosis
+score: 1
+Treatment
+score: 1
+--------------------------
+case:13
+
+
+Diagnosis score: 3.5
+
+Treatment score: 3.5
+--------------------------
+case:14
+
+
+Diagnosis score: 4.5  
+Treatment score: 4.5
+--------------------------
+case:15
+
+
+Diagnosis score: 1.5
+
+Treatment score: 2
+--------------------------
+case:16
+
+
+**Diagnosis:**   
+score: 5
+
+**Treatment:**  
+score: 5  
+--------------------------
+case:17
+
+
+Diagnosis score: 4.5  
+Treatment score: 4.8
+--------------------------
+case:18
+
+
+Diagnosis score: 3.5  
+Treatment score: 3.5
+--------------------------
+case:19
+
+
+Diagnosis score: 3.0
+
+Treatment score: 4.0
+--------------------------
+case:20
+
+
+
+Diagnosis score: 2  
+Treatment score: 3 
+
+
+--------------------------
+case:21
+
+
+Diagnosis score: 3.5  
+Treatment score: 4.5
+--------------------------
+case:22
+
+
+Diagnosis score: 2.5  
+Treatment score: 2.5
+--------------------------
+case:23
+
+
+Diagnosis score: 4.5  
+Treatment score: 4.5
+--------------------------
+case:24
+
+
+**Diagnosis score: 3**
+
+**Treatment score: 4**
+--------------------------
+case:25
+
+
+Diagnosis:
+score: 1
+
+Treatment:
+score: 1
+--------------------------
+case:26
+
+
+Diagnosis score: 2.5  
+Treatment score: 2.5
+--------------------------
+case:27
+
+
+Diagnosis score: 2.8  
+Treatment score: 3.5
+--------------------------
+case:28
+
+
+**Diagnosis:** 
+
+score: 3.3
+
+**Treatment:** 
+
+score: 3.6
+--------------------------
+case:29
+
+
+Diagnosis score: 1.5  
+Treatment score: 2.5  
+--------------------------
+case:30
+
+
+Diagnosis score: 2.3
+Treatment score: 2.0

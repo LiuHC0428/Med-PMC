@@ -1,0 +1,211 @@
+
+--------------------------
+case:1
+
+
+Diagnosis score: 1.0  
+Treatment score: 2.0  
+--------------------------
+case:2
+
+
+Diagnosis score: 2
+Treatment score: 3
+--------------------------
+case:3
+
+
+Diagnosis score: 3  
+Treatment score: 3.5
+--------------------------
+case:4
+
+
+Diagnosis score: 3
+Treatment score: 4.5
+--------------------------
+case:5
+
+
+Diagnosis score: 4.5
+
+Treatment score: 4.0
+--------------------------
+case:6
+
+
+Diagnosis score: 3.5
+
+Treatment score: 4.0
+--------------------------
+case:7
+
+
+**Diagnosis score: 1**
+The doctor's diagnosis of a fracture or dislocation is fundamentally incorrect. The actual condition is stenosing tenosynovitis of the right thumb long flexor tendon. This is a significant deviation from the correct diagnosis.
+
+**Treatment score: 2**
+The treatment plan involves referring the patient to an orthopedic specialist and advising immobilization or surgery if necessary, as well as suggesting ice application. While these recommendations might not cause harm, they do not address the actual issue of stenosing tenosynovitis, which requires surgical release.
+--------------------------
+case:8
+
+
+Diagnosis score: 4.0
+Treatment score: 3.0
+--------------------------
+case:9
+
+
+Diagnosis score: 2
+Treatment score: 1
+--------------------------
+case:10
+
+
+Diagnosis score: 1
+
+Treatment score: 1
+--------------------------
+case:11
+
+
+Diagnosis score: 4
+
+Treatment score: 1
+--------------------------
+case:12
+
+
+Diagnosis score: 4.5
+
+Treatment score: 3.5
+--------------------------
+case:13
+
+
+Diagnosis score: 3.5  
+Treatment score: 3.0  
+--------------------------
+case:14
+
+
+Diagnosis
+score: 5
+
+Treatment
+score: 5
+--------------------------
+case:15
+
+
+Diagnosis:
+score: 2
+
+Treatment:
+score: 3
+--------------------------
+case:16
+
+
+Diagnosis score: 5  
+Treatment score: 4.5
+--------------------------
+case:17
+
+
+Diagnosis score: 2
+Treatment score: 1
+--------------------------
+case:18
+
+
+Diagnosis score: 3.5
+
+Treatment score: 3
+--------------------------
+case:19
+
+
+Diagnosis score: 3.5  
+Treatment score: 3
+--------------------------
+case:20
+
+
+Diagnosis score: 3.5
+Treatment score: 4.0
+--------------------------
+case:21
+
+
+**Diagnosis:** 
+score: 1
+
+**Treatment:**
+score: 1
+--------------------------
+case:22
+
+
+Diagnosis
+score: 2.5
+
+Treatment
+score: 3
+--------------------------
+case:23
+
+
+Diagnosis
+score: 3
+
+Treatment
+score: 4
+--------------------------
+case:24
+
+
+**Diagnosis:**  
+score: 3.8
+
+**Treatment:**  
+score: 3.3
+--------------------------
+case:25
+
+
+Diagnosis score: 1
+
+Treatment score: 2
+--------------------------
+case:26
+
+
+Diagnosis score: 3.5
+Treatment score: 3.5
+--------------------------
+case:27
+
+
+Diagnosis score: 2.5  
+Treatment score: 4.5  
+--------------------------
+case:28
+
+
+Diagnosis score: 2
+
+Treatment score: 4
+--------------------------
+case:29
+
+
+Diagnosis score: 3.5
+
+Treatment score: 3
+--------------------------
+case:30
+
+
+Diagnosis score: 1  
+Treatment score: 1

@@ -1,0 +1,249 @@
+
+--------------------------
+case:1
+
+
+Diagnosis
+score: 1
+
+Treatment
+score: 1
+--------------------------
+case:2
+
+
+Diagnosis: 
+score: 2.5
+
+Treatment: 
+score: 3.5
+--------------------------
+case:3
+
+
+Diagnosis: 
+score: 5
+
+Treatment:
+score: 4.5
+--------------------------
+case:4
+
+
+Diagnosis score: 2.8  
+Treatment score: 4.3
+--------------------------
+case:5
+
+
+Diagnosis
+score: 2
+
+Treatment
+score: 2.5
+--------------------------
+case:6
+
+
+Diagnosis score: 3
+Treatment score: 3.5
+--------------------------
+case:7
+
+
+Diagnosis
+score: 2.3
+
+Treatment
+score: 3.1
+--------------------------
+case:8
+
+
+**Diagnosis**: score: 4  
+**Treatment**: score: 3.5
+--------------------------
+case:9
+
+
+**Diagnosis:**  
+score: 3  
+
+**Treatment:**  
+score: 3
+--------------------------
+case:10
+
+
+Diagnosis score: 3.0
+Treatment score: 4.0
+--------------------------
+case:11
+
+
+Diagnosis
+score: 2.5
+
+Treatment
+score: 3.5
+--------------------------
+case:12
+
+
+Diagnosis
+score: 2.5
+
+Treatment
+score: 2.5
+--------------------------
+case:13
+
+
+Diagnosis: score: 3
+
+Treatment: score: 4
+--------------------------
+case:14
+
+
+Diagnosis
+score: 4
+
+Treatment
+score: 4
+--------------------------
+case:15
+
+
+Diagnosis
+score: 2.7
+
+Treatment
+score: 3.5
+--------------------------
+case:16
+
+
+Diagnosis: score: 5
+
+Treatment: score: 4.5
+--------------------------
+case:17
+
+
+**Evaluation:**
+
+**Diagnosis**
+score: 3
+
+**Treatment**
+score: 4
+--------------------------
+case:18
+
+
+**Diagnosis:**
+score: 4
+
+**Treatment:**
+score: 3.5
+--------------------------
+case:19
+
+
+Diagnosis
+score: 2.8
+
+Treatment
+score: 3.2
+--------------------------
+case:20
+
+
+Diagnosis
+score: 1
+
+Treatment
+score: 1
+--------------------------
+case:21
+
+
+Diagnosis score: 4
+Treatment score: 4
+--------------------------
+case:22
+
+
+Diagnosis
+score: 3.5
+
+Treatment
+score: 3.5
+--------------------------
+case:23
+
+
+Diagnosis: score: 4.5
+Treatment: score: 4.5
+
+The diagnosis of "Upper Gastrointestinal Bleeding" is consistent with the case information. The doctor did not explicitly include a differential diagnosis regarding potential causes such as peptic ulcer disease or gastric malignancies that could have been mentioned but suspected aspirin-induced gastritis or ulcer is appropriate.
+
+For the treatment, the provided plan addresses the urgency and includes critical actions like hemodynamic stabilization, potential blood transfusion, PPI therapy, and stopping aspirin. It is detailed and closely matches the standard answer. Further evaluation with repeat EGD and oral medications for long-term gastroprotection are well considered. However, some specifics such as inpatient monitoring guidelines or initial dosages were not fully elaborated.
+--------------------------
+case:24
+
+
+Diagnosis
+score: 3
+
+Treatment
+score: 3.5
+--------------------------
+case:25
+
+
+Diagnosis: score: 2.5
+Treatment: score: 2.5
+--------------------------
+case:26
+
+
+Diagnosis
+score: 3
+
+Treatment
+score: 3.5
+--------------------------
+case:27
+
+
+Diagnosis score: 2.5  
+Treatment score: 2.5
+--------------------------
+case:28
+
+
+Diagnosis:
+score: 3
+
+Treatment:
+score: 3
+--------------------------
+case:29
+
+
+Diagnosis
+score: 2
+
+Treatment
+score: 2
+--------------------------
+case:30
+
+
+**Diagnosis**
+score: 1
+
+**Treatment**
+score: 2

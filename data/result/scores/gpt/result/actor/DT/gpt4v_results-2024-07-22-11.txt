@@ -1,0 +1,215 @@
+
+--------------------------
+case:1
+
+
+**Diagnosis score: 3.5**
+
+**Treatment score: 3.5**
+--------------------------
+case:2
+
+
+Diagnosis score: 4.5  
+Treatment score: 4.3
+--------------------------
+case:3
+
+
+**Diagnosis score: 3.5**
+
+**Treatment score: 3**
+--------------------------
+case:4
+
+
+Diagnosis score: 3.5
+
+Treatment score: 4
+--------------------------
+case:5
+
+
+Diagnosis score: 1.5  
+Treatment score: 1.5
+--------------------------
+case:6
+
+
+Diagnosis score: 3
+Treatment score: 3
+--------------------------
+case:7
+
+
+Diagnosis score: 2
+
+Treatment score: 3
+--------------------------
+case:8
+
+
+**Diagnosis:**
+score: 4
+
+**Treatment:**
+score: 4.5
+--------------------------
+case:9
+
+
+**Diagnosis**
+score: 3
+
+**Treatment**
+score: 3.5
+--------------------------
+case:10
+
+
+Diagnosis score: 5
+Treatment score: 4.5
+--------------------------
+case:11
+
+
+Diagnosis score: 3  
+Treatment score: 2.5
+--------------------------
+case:12
+
+
+**Diagnosis:**
+score: 3
+
+**Treatment:**
+score: 2.5
+--------------------------
+case:13
+
+
+Diagnosis score: 4  
+Treatment score: 3
+--------------------------
+case:14
+
+
+**Diagnosis score: 5**
+
+**Treatment score: 5**
+--------------------------
+case:15
+
+
+Diagnosis score: 2.7  
+Treatment score: 3.0
+--------------------------
+case:16
+
+
+Diagnosis score: 5
+
+Treatment score: 4.5
+--------------------------
+case:17
+
+
+Diagnosis score: 3.5
+Treatment score: 4
+--------------------------
+case:18
+
+
+Diagnosis score: 3
+
+Treatment score: 3.5
+--------------------------
+case:19
+
+
+Diagnosis score: 2.3
+Treatment score: 2.0
+--------------------------
+case:20
+
+
+**Evaluation of Diagnosis:**
+score: 4
+
+**Evaluation of Treatment:**
+score: 4.5
+--------------------------
+case:21
+
+
+**Diagnosis score: 4.0**
+
+**Treatment score: 3.5**
+--------------------------
+case:22
+
+
+Diagnosis score: 4.5  
+Treatment score: 4.5
+--------------------------
+case:23
+
+
+**Diagnosis score: 5**
+
+**Treatment score: 4**
+--------------------------
+case:24
+
+
+Diagnosis
+score: 2
+
+Treatment
+score: 2
+--------------------------
+case:25
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3
+--------------------------
+case:26
+
+
+Diagnosis score: 2.5  
+Treatment score: 3.5
+--------------------------
+case:27
+
+
+**Diagnosis score: 3.7**
+The doctor's diagnosis was not fully aligned with the standard case diagnosis of right-sided non-exudative pleuritis. While they did consider respiratory causes, they failed to accurately identify pleuritis and misdirected towards other differential diagnoses like chronic bronchitis and GERD. Although the correct pathological region (respiratory system) was identified, the specific condition was missed, leading to a partial but not complete alignment with the standard diagnosis.
+
+**Treatment score: 3.5**
+The treatment plan advised by the doctor included specialist referrals and considering lifestyle modifications for GERD, which are not helpful as they are not accurate for the condition of right-sided non-exudative pleuritis. There was no prescription of antibiotics like levofloxacin or symptomatic treatment for coughing and expectoration as noted in the standard case. While the treatment proposed was reasonable and safe, it was not the optimal or specific therapy needed for the accurate condition, indicating significant room for improvement.
+--------------------------
+case:28
+
+
+Diagnosis:
+score: 2.5
+
+Treatment:
+score: 3.5
+--------------------------
+case:29
+
+
+Diagnosis score: 2.0
+Treatment score: 3.8
+--------------------------
+case:30
+
+
+**Diagnosis**  
+Score: 2.5
+
+**Treatment**  
+Score: 2.5  

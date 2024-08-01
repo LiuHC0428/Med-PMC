@@ -1,0 +1,201 @@
+
+--------------------------
+case:1
+
+
+Diagnosis score: 1 
+Treatment score: 3
+--------------------------
+case:2
+
+
+Diagnosis score: 2
+Treatment score: 2.5
+--------------------------
+case:3
+
+
+Diagnosis score: 3.8  
+Treatment score: 2.8
+--------------------------
+case:4
+
+
+Diagnosis score: 1.2  
+Treatment score: 2.2
+--------------------------
+case:5
+
+
+Diagnosis score: 2.5  
+Treatment score: 2.5
+--------------------------
+case:6
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3
+--------------------------
+case:7
+
+
+Diagnosis score: 1.5
+
+Treatment score: 1.5
+--------------------------
+case:8
+
+
+Diagnosis score: 3
+
+Treatment score: 4
+--------------------------
+case:9
+
+
+Diagnosis score: 2  
+Treatment score: 3.5  
+--------------------------
+case:10
+
+
+Diagnosis score: 1.0
+Treatment score: 2.0
+--------------------------
+case:11
+
+
+**Diagnosis:**
+score: 2
+
+**Treatment:**
+score: 2
+--------------------------
+case:12
+
+
+Diagnosis score
+score: 2
+
+Treatment score
+score: 3
+--------------------------
+case:13
+
+
+Diagnosis score: 3.5  
+Treatment score: 3.5
+--------------------------
+case:14
+
+
+Diagnosis score: 2.5
+
+Treatment score: 2
+--------------------------
+case:15
+
+
+Diagnosis score: 1  
+Treatment score: 2  
+--------------------------
+case:16
+
+
+Diagnosis score: 2
+
+Treatment score: 2
+--------------------------
+case:17
+
+
+Diagnosis score: 2  
+Treatment score: 3.5
+--------------------------
+case:18
+
+
+Diagnosis score: 2.6
+Treatment score: 1.0
+--------------------------
+case:19
+
+
+Diagnosis score: 1.5
+Treatment score: 2
+--------------------------
+case:20
+
+
+Diagnosis
+score: 3
+
+Treatment
+score: 1
+--------------------------
+case:21
+
+
+Diagnosis score: 2.5  
+Treatment score: 3.5
+--------------------------
+case:22
+
+
+Diagnosis score: 1
+Treatment score: 2
+--------------------------
+case:23
+
+
+Diagnosis score: 4 
+Treatment score: 3
+--------------------------
+case:24
+
+
+Diagnosis score: 3.5
+Treatment score: 4
+--------------------------
+case:25
+
+
+Diagnosis score: 2
+Treatment score: 3
+--------------------------
+case:26
+
+
+**Evaluation:**
+
+**Diagnosis score: 2**
+The provided diagnosis of migraines or another type of headache disorder is not consistent with the proper diagnosis of cavernous hemangioma from the case information. While both diagnoses deal with neurological symptoms, they differ significantly in nature and required management.
+
+**Treatment score: 2**
+The recommended follow-up with a neurologist is standard, but the suggestions of over-the-counter pain relievers and sleep hygiene do not address or treat the primary condition of cavernous hemangioma. Providing a more targeted treatment plan focusing on cerebral protection and addressing intracranial pressure would have been more appropriate.
+--------------------------
+case:27
+
+
+Diagnosis score: 2  
+Treatment score: 2
+--------------------------
+case:28
+
+
+Diagnosis score: 2
+Treatment score: 3
+--------------------------
+case:29
+
+
+Diagnosis score: 1.5
+Treatment score: 2
+--------------------------
+case:30
+
+
+Diagnosis score: 1.5
+
+Treatment score: 2

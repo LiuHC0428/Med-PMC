@@ -1,0 +1,218 @@
+
+--------------------------
+case:1
+
+
+Diagnosis score: 1.0
+Treatment score: 1.0
+--------------------------
+case:2
+
+
+Diagnosis score: 1.5  
+Treatment score: 3.5
+--------------------------
+case:3
+
+
+Diagnosis score: 1 
+Treatment score: 1
+--------------------------
+case:4
+
+
+**Evaluation:**
+
+Diagnosis score: 4.0
+Treatment score: 3.0
+--------------------------
+case:5
+
+
+Diagnosis score: 1  
+Treatment score: 1
+
+*The doctor incorrectly diagnosed the condition as infectious colitis and prescribed inappropriate treatment.*
+--------------------------
+case:6
+
+
+**Diagnosis**
+score: 3.5
+
+**Treatment**
+score: 4.5
+--------------------------
+case:7
+
+
+Diagnosis score: 5  
+Treatment score: 5
+--------------------------
+case:8
+
+
+Diagnosis score: 4.5
+Treatment score: 4.5
+--------------------------
+case:9
+
+
+**Evaluation of Doctor's Diagnosis**
+
+**Diagnosis**
+score: 4
+
+The doctor correctly identifies potential gastrointestinal bleeding and considers various differential diagnoses related to lower and upper GI tracts. However, the specific diagnosis of a gastric stromal tumor is not mentioned, which would have made their diagnosis fully accurate.
+
+**Treatment**
+score: 2.5
+
+The doctor's recommendations for laboratory tests (CBC, Liver Function Tests, Coagulation Studies, Stool Test for Occult Blood) and diagnostic imaging (Colonoscopy) are appropriate initial steps. However, they miss suggesting the definitive treatment—partial gastrectomy—for the diagnosed gastric stromal tumor. While the preliminary steps are reasonable, the failure to indicate any form of surgical intervention or reference to dealing with tumors detracts from the treatment plan’s appropriateness.
+--------------------------
+case:10
+
+
+Diagnosis score: 2.3
+Treatment score: 1.5
+--------------------------
+case:11
+
+
+Diagnosis score: 2.0  
+Treatment score: 2.0
+--------------------------
+case:12
+
+
+Diagnosis score: 1
+Treatment score: 1
+--------------------------
+case:13
+
+
+Diagnosis score: 3.5  
+Treatment score: 3.5
+--------------------------
+case:14
+
+
+**Diagnosis:** score: 4.8  
+**Treatment:** score: 4.8  
+--------------------------
+case:15
+
+
+Diagnosis score: 3
+
+Treatment score: 4
+--------------------------
+case:16
+
+
+Diagnosis score: 5
+
+Treatment score: 4.5
+--------------------------
+case:17
+
+
+Diagnosis score: 4.6
+
+Treatment score: 4.4
+--------------------------
+case:18
+
+
+Diagnosis
+score: 2
+
+Treatment
+score: 2.5
+--------------------------
+case:19
+
+
+Diagnosis score: 2  
+Treatment score: 1  
+--------------------------
+case:20
+
+
+**Diagnosis:**
+score: 2.5
+
+**Treatment:**
+score: 4
+--------------------------
+case:21
+
+
+Diagnosis score: 3.8  
+Treatment score: 2.5
+--------------------------
+case:22
+
+
+**Diagnosis score: 3.5**
+The doctor in the dialogue provided a diagnosis that is partially consistent with the standard diagnosis. While they correctly identified the possibility of rib fractures and pneumothorax, they did not specifically mention blunt trauma to the thoracoabdominal region or abdominal effusion.
+
+**Treatment score: 4** 
+The treatment plan given by the doctor in the summarized case includes many correct steps such as pain management, airway management, trauma stabilization, and imaging studies. However, it misses specific mentions of nil by mouth, fluid replenishment, antibiotics, and nutritional support which are part of the standard treatment plan.
+--------------------------
+case:23
+
+
+Diagnosis score: 4.5  
+Treatment score: 4.0
+--------------------------
+case:24
+
+
+Diagnosis score: 3
+Treatment score: 3
+--------------------------
+case:25
+
+
+**Diagnosis**
+score: 2
+
+**Treatment**
+score: 1
+--------------------------
+case:26
+
+
+**Evaluation:**
+
+**Diagnosis score: 4**
+- The doctor touched on a wide array of differential diagnoses, including systemic and psychiatric causes, as well as possible infections and benign conditions, but didn't specifically diagnose the patient with a cavernous hemangioma, which is the correct diagnosis.
+
+**Treatment score: 2.5**
+- The doctor provided an extensive plan for non-specific investigations (blood tests, imaging) and self-care tips but did not specifically address the targeted treatment for cavernous hemangioma as outlined in the case info. The guidance given does not adhere closely to the prescribed treatments like cerebral protection, nerve nutrition, metabolic improvement, gastric mucosa protection, and dehydration to reduce intracranial pressure.
+--------------------------
+case:27
+
+
+Diagnosis score: 2.0  
+Treatment score: 2.0
+--------------------------
+case:28
+
+
+Diagnosis score: 3.5
+Treatment score: 3.5
+--------------------------
+case:29
+
+
+Diagnosis score: 1.5
+
+Treatment score: 1.5
+--------------------------
+case:30
+
+
+Diagnosis score: 1.8
+Treatment score: 2.5

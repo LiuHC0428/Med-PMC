@@ -1,0 +1,408 @@
+
+--------------------------
+case:1
+
+
+**Consultation**
+score: 2.0
+
+**Examination**
+score: 1.0
+
+**Diagnosis and Treatment**
+score: 2.5
+
+**Communication Skills**
+score: 3.0
+--------------------------
+case:2
+
+
+**Consultation score**
+score: 2
+
+**Examination score**
+score: 1
+
+**Diagnosis and Treatment score*
+score: 2
+
+**Communication Skills score**
+score: 3
+--------------------------
+case:3
+
+
+**Consultation**
+score: 2.8
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2.2
+
+**Communication Skills**
+score: 3.4
+--------------------------
+case:4
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1.5
+
+Diagnosis and Treatment
+score: 1.5
+
+Communication Skills
+score: 2.5
+--------------------------
+case:5
+
+
+Consultation
+Score: 2
+
+Examination
+Score: 1
+
+Diagnosis and Treatment
+Score: 2
+
+Communication Skills
+Score: 3
+--------------------------
+case:6
+
+
+Consultation
+score: 4
+
+Examination
+score: 4
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3.5
+--------------------------
+case:7
+
+
+**Consultation**
+Score: 2.5
+
+**Examination**
+Score: 1
+
+**Diagnosis and Treatment**
+Score: 2
+
+**Communication Skills**
+Score: 3
+--------------------------
+case:8
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:9
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3
+--------------------------
+case:10
+
+
+Consultation
+score: 2.8
+
+Examination
+score:  1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3.8
+--------------------------
+case:11
+
+
+Consultation score: 2.5
+
+Examination score: 3
+
+Diagnosis and Treatment score: 2.5
+
+Communication Skills score: 3.5
+--------------------------
+case:12
+
+
+Consultation score: 2.2  
+Examination score: 1  
+Diagnosis and Treatment score: 2.3  
+Communication Skills score: 2.1  
+--------------------------
+case:13
+
+
+Consultation
+
+Score: 3
+
+Examination
+
+Score: 1
+
+Diagnosis and Treatment
+
+Score: 1
+
+Communication Skills
+
+Score: 3
+--------------------------
+case:14
+
+
+Consultation score: 3.5
+Examination score: 5
+Diagnosis and Treatment score: 4
+Communication Skills score: 3.5
+--------------------------
+case:15
+
+
+Consultation score: 2.5
+Examination score: 1
+Diagnosis and Treatment score: 3
+Communication Skills score: 2.5
+--------------------------
+case:16
+
+
+**Consultation**
+score: 4
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 3
+
+**Communication Skills**
+score: 5
+--------------------------
+case:17
+
+
+**Consultation**  
+score: 2
+
+**Examination**  
+score: 1
+
+**Diagnosis and Treatment**  
+score: 2
+
+**Communication Skills**  
+score: 3
+--------------------------
+case:18
+
+
+Consultation score: 3.4
+
+Examination score: 2.1
+
+Diagnosis and Treatment score: 2.5
+
+Communication Skills score: 4.0
+--------------------------
+case:19
+
+
+Consultation score
+score: 2.2
+
+Examination score
+score: 1
+
+Diagnosis and Treatment score
+score: 1
+
+Communication Skills score
+score: 3.5
+--------------------------
+case:20
+
+
+Consultation score
+score: 3.5
+
+Examination score
+score: 1
+
+Diagnosis and Treatment score
+score: 1
+
+Communication Skills score
+score: 3.5
+--------------------------
+case:21
+
+
+Consultation score: 3.8
+
+Examination score: 1
+
+Diagnosis and Treatment score: 3.2
+
+Communication Skills score: 3.5
+--------------------------
+case:22
+
+
+Consultation score: 4.2  
+The doctor is logical and clear, and the history is mostly collected well, but there are some important details missing from the patient's statement, such as the timeline of symptoms post-accident.
+
+Examination score: 1  
+The doctor mentioned "laboratory tests: CBC shows a WBC count of 12,000/ul with 70% neutrophils. Serum electrolytes and liver function tests are within normal limits," which was not mentioned in the 'Examinations' of the case info provided, nor was a thorough physical examination performed as described in the case info.
+
+Diagnosis and Treatment score: 2.2  
+The doctor made some correct initial diagnoses regarding the pneumothorax and rib fractures, but missed the abdominal effusion and added unrelated evaluations (e.g., bone density testing). The treatment plan also varied significantly from the standard case.
+
+Communication Skills score: 3.8  
+The doctor communicates fairly well and appears empathetic, but some aspects could be clearer for better reassurance and understanding from the patient.
+--------------------------
+case:23
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3.5
+
+Communication Skills
+score: 4
+--------------------------
+case:24
+
+
+Consultation
+score: 2.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:25
+
+
+Consultation score: 2.3
+Examination score: 3
+Diagnosis and Treatment score: 2
+Communication Skills score: 3
+--------------------------
+case:26
+
+
+Consultation score: 3
+Examination score: 4
+Diagnosis and Treatment score: 3
+Communication Skills score: 3
+--------------------------
+case:27
+
+
+**Consultation**
+Score: 3
+
+**Examination**
+Score: 1
+
+**Diagnosis and Treatment**
+Score: 2.5
+
+**Communication Skills**
+Score: 4
+--------------------------
+case:28
+
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 1
+
+**Communication Skills**
+score: 3
+--------------------------
+case:29
+
+
+**Consultation score** 
+score: 1.5
+
+**Examination score** 
+score: 1
+
+**Diagnosis and Treatment score** 
+score: 1
+
+**Communication Skills score** 
+score: 3
+--------------------------
+case:30
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3

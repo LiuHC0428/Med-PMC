@@ -1,0 +1,213 @@
+
+--------------------------
+case:1
+
+
+Diagnosis score: 1
+Treatment score: 2
+--------------------------
+case:2
+
+
+Diagnosis score: 1  
+Treatment score: 1
+--------------------------
+case:3
+
+
+Diagnosis score: 3  
+Treatment score: 4  
+--------------------------
+case:4
+
+
+Diagnosis score: 3.5
+
+Treatment score: 3.5
+--------------------------
+case:5
+
+
+Diagnosis score: 4
+Treatment score: 4.5
+--------------------------
+case:6
+
+
+Diagnosis score: 3.5
+Treatment score: 3.2
+--------------------------
+case:7
+
+
+**Diagnosis:**  
+score: 1  
+
+**Treatment:**  
+score: 2  
+--------------------------
+case:8
+
+
+Diagnosis score: 5
+
+Treatment score: 4.5
+--------------------------
+case:9
+
+
+Diagnosis score: 3.5
+
+Treatment score: 3
+--------------------------
+case:10
+
+
+**Diagnosis:**  
+score: 2.5
+
+**Treatment:**  
+score: 2
+--------------------------
+case:11
+
+
+Diagnosis score: 1.5
+Treatment score: 1.2
+--------------------------
+case:12
+
+
+Diagnosis score:  2
+
+Treatment score:  1
+--------------------------
+case:13
+
+
+Diagnosis score: 3.5  
+Treatment score: 2.5
+--------------------------
+case:14
+
+
+**Diagnosis score: 3.5**
+The doctor identified gallstone disease as the cause of the patient's recurrent abdominal pain, which is correct. However, there is a notable error in the patient's age and the laterality of the pain described, raising concern about the accuracy of patient information interpretation.
+
+**Treatment score: 4.5**
+The doctor's recommendation of laparoscopic cholecystectomy aligns with the standard treatment for symptomatic gallstones. The advice to avoid fatty or spicy foods until surgery is also appropriate. However, the preoperative assessment should have been emphasized more clearly to ensure thorough patient preparation.
+--------------------------
+case:15
+
+
+Diagnosis score: 2.5
+
+Treatment score: 2.5
+--------------------------
+case:16
+
+
+Diagnosis score: 4.5  
+Treatment score: 4.5
+--------------------------
+case:17
+
+
+Diagnosis score: 3.5
+Treatment score: 4.0
+--------------------------
+case:18
+
+
+Diagnosis score: 3
+
+Treatment score: 2.5
+--------------------------
+case:19
+
+
+Diagnosis score: 1.5
+Treatment score: 3.5
+--------------------------
+case:20
+
+
+Diagnosis score 
+Score: 2
+
+Treatment:
+Score: 2
+--------------------------
+case:21
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3
+--------------------------
+case:22
+
+
+Diagnosis score 
+
+score: 4
+
+Treatment:
+
+score: 3.5
+--------------------------
+case:23
+
+
+Diagnosis score: 2.5  
+Treatment score: 2.5
+--------------------------
+case:24
+
+
+**Diagnosis**
+- Score: 3
+
+**Treatment**
+- Score: 4
+--------------------------
+case:25
+
+
+Diagnosis score: 2
+Treatment score: 3.5
+--------------------------
+case:26
+
+
+Diagnosis score: 3.5
+
+Treatment score: 3.5
+--------------------------
+case:27
+
+
+**Diagnosis**  
+Score: 2.8
+
+**Treatment**  
+Score: 3.2
+--------------------------
+case:28
+
+
+Diagnosis score: 2  
+Treatment score: 3
+--------------------------
+case:29
+
+
+Diagnosis score: 1
+Treatment score: 2
+--------------------------
+case:30
+
+
+Diagnosis score: 1
+
+Treatment score: 1

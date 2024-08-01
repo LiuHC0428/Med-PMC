@@ -1,0 +1,218 @@
+
+--------------------------
+case:1
+
+
+Diagnosis:
+score: 3
+
+Treatment:
+score: 2
+--------------------------
+case:2
+
+
+Diagnosis score: 2
+Treatment score: 3
+--------------------------
+case:3
+
+
+**Diagnosis score: 2**
+
+**Treatment score: 3**
+--------------------------
+case:4
+
+
+Diagnosis:
+score: 1
+
+Treatment:
+score: 2
+--------------------------
+case:5
+
+
+Diagnosis score: 4
+Treatment score: 3.5
+--------------------------
+case:6
+
+
+**Diagnosis**
+score: 2.5
+
+**Treatment**
+score: 3.5
+--------------------------
+case:7
+
+
+Diagnosis score: 2.5  
+Treatment score: 2.5  
+--------------------------
+case:8
+
+
+Diagnosis score: 3.5
+
+Treatment score: 4
+--------------------------
+case:9
+
+
+Diagnosis score: 3.6
+
+Treatment score: 3.2
+--------------------------
+case:10
+
+
+Diagnosis score: 1
+
+Treatment score: 1
+--------------------------
+case:11
+
+
+Diagnosis score: 2.5
+
+Treatment score: 2.5
+--------------------------
+case:12
+
+
+Diagnosis score: 2. 
+Various indicators suggest the patient has purulent tenosynovitis. However, the doctor diagnosed it as cellulitis, which indicates an understanding of infectious conditions but a distinct diagnosis from the accurate one per the case info.
+
+Treatment score: 3. 
+The suggested oral antibiotics and other measures might somewhat help with infection-related issues such as cellulitis, but would not adequately address purulent tenosynovitis, which requires surgical intervention like incision and drainage of abscess and nail extraction.
+--------------------------
+case:13
+
+
+Diagnosis score: 3.5
+
+Treatment score: 3.0
+--------------------------
+case:14
+
+
+Diagnosis score: 3.5  
+Treatment score: 4.3
+--------------------------
+case:15
+
+
+Diagnosis score: 1.5
+Treatment score: 1.5
+--------------------------
+case:16
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3
+--------------------------
+case:17
+
+
+Diagnosis score: 2.5  
+Treatment score: 3
+--------------------------
+case:18
+
+
+Diagnosis score: 3.5
+Treatment score: 3.5
+--------------------------
+case:19
+
+
+Diagnosis score: 2  
+Treatment score: 3.5
+--------------------------
+case:20
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3.5
+--------------------------
+case:21
+
+
+Diagnosis
+score: 2.5
+
+Treatment
+score: 3.5
+--------------------------
+case:22
+
+
+Diagnosis score: 3.5  
+The doctor identified multiple rib fractures and a left-sided pneumothorax but indicated a possible pneumonia or respiratory infection, which was not part of the standard diagnosis in the 'case info'.
+
+Treatment score: 4.0  
+The treatment proposed includes antibiotic administration, which aligns with the need for infection management stated in 'case info'. The doctor's treatment plan also includes a chest tube for pneumothorax, which is appropriate. However, the detailed treatment specifics such as nil by mouth and fluid replenishment are not explicitly mentioned.
+--------------------------
+case:23
+
+
+Diagnosis score: 3.7
+
+Treatment score: 2.5
+--------------------------
+case:24
+
+
+Diagnosis
+score: 2
+
+Treatment
+score: 2.5
+--------------------------
+case:25
+
+
+Diagnosis score: 1.5
+
+Treatment score: 2.5
+--------------------------
+case:26
+
+
+Diagnosis score: 3
+
+Treatment score: 4.5
+--------------------------
+case:27
+
+
+Diagnosis score: 2.5  
+Treatment score: 3.5
+--------------------------
+case:28
+
+
+Diagnosis:
+score: 2.5
+
+Treatment:
+score: 3
+--------------------------
+case:29
+
+
+Diagnosis score: 1.0
+
+Treatment score: 2.0
+--------------------------
+case:30
+
+
+Diagnosis score: 1.5
+
+Treatment score: 3

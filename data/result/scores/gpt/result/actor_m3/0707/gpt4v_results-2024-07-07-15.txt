@@ -1,0 +1,313 @@
+
+--------------------------
+case:1
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:2
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:3
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:4
+
+
+total behaviors:
+score: 5
+
+examination image analysis capabilities:
+score: 5
+
+score: 5
+--------------------------
+case:5
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:6
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:7
+
+
+total behaviors: score: 4
+examination image analysis capabilities: score: 4
+
+score: 5
+--------------------------
+case:8
+
+
+total behaviors:
+score: 4
+
+Examination image analysis capabilities:
+score: 5
+
+score: 5
+--------------------------
+case:9
+
+
+Total behaviors:
+score: 4
+
+Examination image analysis capabilities:
+score: 3.5
+
+score: 5
+--------------------------
+case:10
+
+
+total behaviors: score: 4.5
+examination image analysis capabilities: score: 4
+
+score: 4
+--------------------------
+case:11
+
+
+total behaviors: score: 4
+examination image analysis capabilities: score: 4
+
+score: 5
+--------------------------
+case:12
+
+
+total behaviors: 
+score: 4
+
+Examination image analysis capabilities: 
+score: 3.5
+
+score: 3
+--------------------------
+case:13
+
+
+total behaviors:
+score: 4
+
+Examination image analysis capabilities:
+score: 4
+
+score: 4
+--------------------------
+case:14
+
+
+total behaviors:
+score: 3
+
+Examination image analysis capabilities:
+score: 4
+
+score: 5
+--------------------------
+case:15
+
+
+total behaviors: score: 4
+Examination image analysis capabilities: score: 3.5
+
+score: 5
+--------------------------
+case:16
+
+
+total behaviors:
+score: 3
+
+Examination image analysis capabilities:
+score: 3
+
+score: 2
+--------------------------
+case:17
+
+
+total behaviors: score: 4
+
+Examination image analysis capabilities: score: 4
+
+score: 5
+--------------------------
+case:18
+
+
+total behaviors:
+score: 2
+
+Examination image analysis capabilities: 
+score: 1
+
+score: 4
+--------------------------
+case:19
+
+
+total behaviors:
+score: 3.5
+
+Examination image analysis capabilities: 
+score: 3.5
+
+score: 4
+--------------------------
+case:20
+
+
+total behaviors:
+score: 3.5
+Examination image analysis capabilities: 
+score: 3.5
+
+score: 4
+--------------------------
+case:21
+
+
+total behaviors:
+score: 3
+
+examination image analysis capabilities:
+score: 2.5
+
+score: 5
+--------------------------
+case:22
+
+
+- score: 4
+- score: 4
+
+score: 5
+--------------------------
+case:23
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:24
+
+
+total behaviors:
+score: 2
+
+Examination image analysis capabilities:
+score: 1
+
+score: 4.5
+--------------------------
+case:25
+
+
+total behaviors:
+score: 4
+
+examination image analysis capabilities:
+score: 4
+
+score: 4
+--------------------------
+case:26
+
+
+total behaviors: 
+score: 3
+
+Examination image analysis capabilities: 
+score: 3
+
+score: 4
+--------------------------
+case:27
+
+
+total behaviors:
+score: 4
+
+Examination image analysis capabilities:
+score: 3.5
+
+score: 4
+--------------------------
+case:28
+
+
+total behaviors:
+score: 4
+
+Examination image analysis capabilities:
+score: 4
+
+score: 5
+--------------------------
+case:29
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0
+--------------------------
+case:30
+
+
+No valid pic input
+score: 1
+
+score: 1
+
+No valid pic input
+score: 0

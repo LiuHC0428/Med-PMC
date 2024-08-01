@@ -1,0 +1,54 @@
+{
+  "id": 3,
+  "Text": {
+      "Patient Information": "Female, 51 years old, farmer",
+      "Chief Complaint": "Chest and back pain for six months, numbness and weakness in both lower limbs for one week",
+      "Present Illness": "The patient experienced chest and back pain without obvious cause six months before admission, described as a pricking sensation accompanied by a band-like feeling. One week before admission, the patient developed numbness and weakness in both lower limbs, while the upper limbs could still be lifted. The patient could walk with support, and the symptoms were symmetrical. The patient reported occasional crawling sensations and burning in the lower limbs, especially severe in the soles, without seizures, speech disorders, headaches, or dizziness. The patient's family brought her to the neurology clinic at our hospital, where a cranial CT scan showed no significant abnormalities.",
+      "Physical Condition": "None",
+      "Past Medical History": "None.",
+      "Examinations": "WT: 36.2°C, P: 76 beats/min, R: 17 breaths/min, BP: 132/74 mmHg \n Spinal MRI: <\\image00555.jpg>",
+      "Diagnosis": "Spinal schwannoma",
+      "Treatment": "Resection of spinal lesion"
+  },
+  "Image": {
+      "00555.jpg": "Spinal lesion located at the right side of the spinal cord at the thoracic vertebra level, considered as a schwannoma."
+  },
+  "history": [
+      {
+          "doctor": "Let's think step by step. Hello, please tell me your main discomfort and its duration.",
+          "patient": "Chest and back pain for six months, numbness and weakness in both lower limbs for one week."
+      },
+      {
+          "doctor": "Let's think step by step. The patient's symptoms suggest possible involvement of the nervous system or spine. First, we need to understand the patient's basic information to better assess the condition. May I know your age and gender?",
+          "patient": "Female, 51 years old."
+      },
+      {
+          "doctor": "Let's think step by step. The patient is a 51-year-old female, and women of this age are prone to some degenerative diseases. Next, we need to understand the specific details of the chest and back pain to further evaluate. Please describe the nature and location of the chest and back pain in detail.",
+          "patient": "Six months ago, I developed chest and back pain without obvious cause, feeling like pricking accompanied by a band-like sensation."
+      },
+      {
+          "doctor": "Let's think step by step. Pricking and band-like sensations suggest possible nerve compression or spinal issues. To further confirm the cause, we need to understand the specific manifestations of the numbness and weakness in both lower limbs. What exactly does the numbness and weakness in both lower limbs feel like?",
+          "patient": "It appeared one week before admission, with numbness and weakness in both lower limbs. I could lift my upper limbs, and could walk with support, symmetrical on both sides. Occasionally, there are crawling sensations and burning in the lower limbs, especially severe in the soles."
+      },
+      {
+          "doctor": "Let's think step by step. Numbness and weakness in both lower limbs, crawling sensations, and burning suggest a high likelihood of spinal cord lesions. To rule out other nervous system diseases, we need to confirm whether there are any other symptoms. Besides these symptoms, do you have any other symptoms like seizures, speech disorders, headaches, or dizziness?",
+          "patient": "No other symptoms."
+      },
+      {
+          "doctor": "Let's think step by step. No other nervous system symptoms further support the likelihood of spinal cord or spinal lesions. To comprehensively understand the patient's physical condition, we need to inquire about basic vital signs. What are your temperature, heart rate, respiratory rate, and blood pressure?",
+          "patient": "T: 36.2°C, P: 76 beats/min, R: 17 breaths/min, BP: 132/74 mmHg."
+      },
+      {
+          "doctor": "Let's think step by step. Basic vital signs are normal. To further confirm the diagnosis, an imaging examination is needed. Please undergo a cranial CT scan to rule out the possibility of brain lesions.",
+          "patient": "The cranial CT scan showed no significant abnormalities."
+      },
+      {
+          "doctor": "Let's think step by step. The cranial CT scan showed no abnormalities, ruling out the possibility of brain lesions. Next, we need to focus on the spinal condition. Please undergo a spinal MRI examination.",
+          "patient": "<\\image00011.jpg>."
+      },
+      {
+          "doctor": "Let's think step by step. Based on the imaging results, the patient has a lesion located at the right side of the spinal cord at the thoracic vertebra level, considered a schwannoma. This highly corresponds with the patient's symptoms. Based on this information, we preliminarily diagnose you with spinal schwannoma. We recommend resection of the spinal lesion for treatment.",
+          "patient": "Okay, thank you, doctor. <Case End> \n\n"
+      }
+  ]
+}

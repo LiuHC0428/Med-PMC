@@ -1,0 +1,407 @@
+
+--------------------------
+case:1
+
+
+Consultation score: 2.5
+
+Examination score: 1
+
+Diagnosis and Treatmen score: 2
+
+Communication Skills score: 3.5
+--------------------------
+case:2
+
+
+Consultation
+score: 2.8
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3.5
+--------------------------
+case:3
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:4
+
+
+**Consultation**: score: 3
+
+**Examination**: score: 1
+
+**Diagnosis and Treatment**: score: 3
+
+**Communication Skills**: score: 4
+--------------------------
+case:5
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:6
+
+
+Consultation
+score: 3
+
+Examination
+score: 2
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:7
+
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 4
+
+**Communication Skills**
+score: 4
+--------------------------
+case:8
+
+
+Consultation score: 3.5  
+Examination score: 1  
+Diagnosis and Treatmen score: 4  
+Communication Skills score: 4.5
+--------------------------
+case:9
+
+
+**Consultation:**  
+score: 3
+
+**Examination:**  
+score: 1
+
+**Diagnosis and Treatment:**  
+score: 1
+
+**Communication Skills:**  
+score: 3
+--------------------------
+case:10
+
+
+Consultation score: 1.5
+Examination score: 1
+Diagnosis and Treatmen score: 1
+Communication Skills score: 2
+--------------------------
+case:11
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 2
+--------------------------
+case:12
+
+
+Consultation score: 2
+
+Examination score: 1
+
+Diagnosis and Treatmen score: 1
+
+Communication Skills score: 3
+--------------------------
+case:13
+
+
+Consultation
+score: 3
+
+Examination
+score: 2
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3.5
+--------------------------
+case:14
+
+
+Consultation
+score: 4
+Examination
+score: 1
+Diagnosis and Treatment
+score: 4
+Communication Skills
+score: 4
+
+--------------------------
+case:15
+
+
+Consultation 
+score: 2.5
+
+Examination 
+score: 3.2
+
+Diagnosis and Treatment 
+score: 1.6
+
+Communication Skills 
+score: 2.9
+--------------------------
+case:16
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3.7
+
+Communication Skills
+score: 4.5
+--------------------------
+case:17
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 4
+--------------------------
+case:18
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3
+--------------------------
+case:19
+
+
+**Consultation**
+score: 2
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2.5
+
+**Communication Skills**
+score: 2.5
+--------------------------
+case:20
+
+
+**Consultation**
+score: 4
+
+**Examination**
+score: 5
+
+**Diagnosis and Treatment**
+score: 4
+
+**Communication Skills**
+score: 5
+--------------------------
+case:21
+
+
+**Evaluation:**
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2
+
+**Communication Skills**
+score: 3
+--------------------------
+case:22
+
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 3
+
+**Communication Skills**
+score: 4
+--------------------------
+case:23
+
+
+Consultation
+score: 2.8
+
+Examination
+score: 2.5
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 3.0
+--------------------------
+case:24
+
+
+Consultation score: 3.2
+Examination score: 2.8
+Diagnosis and Treatmen score: 2.7
+Communication Skills score: 3.2
+--------------------------
+case:25
+
+
+**Evaluation of Doctor's Performance:**
+
+**Consultation**
+Score: 3
+- The doctor collects a broad range of medical history details about the onset, location, nature, duration, and associated symptoms of the headaches. However, there are gaps, particularly in understanding the severity and possible causes.
+
+**Examination**
+Score: 2
+- The physical examination, infection check, and sinus congestion assessment are mentioned but not adequately performed. The doctor comments on imaging studies without specifying evaluating the provided images.
+
+**Diagnosis and Treatment**
+Score: 2.5
+- The patient's primary concern is correctly identified as headaches, but the doctor leans heavily towards a benign cause such as migraines without considering the provided radiologic evidence (e.g., cranial CT). This results in overlooking the actual diagnosis of cerebral hemorrhage and intracranial aneurysm, and thus the corresponding appropriate treatment is missed.
+
+**Communication Skills**
+Score: 3.5
+- The communication is clear with detailed explanations of potential causes and management plans. However, the doctor fails to assure and educate the patient about serious conditions revealed in the imaging, which indicates a lack of proper reassurance and encouragement.
+
+Overall Rating: The doctor performs reasonably well in collecting history and explaining common headache causes. However, there are significant gaps in examination and diagnosis, resulting in improper treatment recommendations and less effectiveness in communication regarding serious findings.
+--------------------------
+case:26
+
+
+Consultation
+score: 3
+
+Examination
+score: 4
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 4
+--------------------------
+case:27
+
+
+Consultation score: 3.3  
+Examination score: 1  
+Diagnosis and Treatmen score: 4  
+Communication Skills score: 4.5  
+--------------------------
+case:28
+
+
+Evaluation:
+
+**Consultation**
+score: 3
+
+**Examination**
+score: 1
+
+**Diagnosis and Treatment**
+score: 2
+
+**Communication Skills**
+score: 3
+--------------------------
+case:29
+
+
+Consultation score: 2.5  
+Examination score: 1  
+Diagnosis and Treatmen score: 1  
+Communication Skills score: 3.5  
+--------------------------
+case:30
+
+
+Consultation score: 2.8  
+Examination score: 1  
+Diagnosis and Treatmen score: 2.5  
+Communication Skills score: 4

@@ -1,0 +1,387 @@
+
+--------------------------
+case:1
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3
+--------------------------
+case:2
+
+
+**Evaluation**
+
+**Consultation score: 2.8**
+The doctor partially followed a logical flow and tried to avoid jargon but didn't gather a fully comprehensive medical history. There was a mix-up regarding the patient's name and missing information on past gastric conditions.
+
+**Examination score: 2**
+The doctor requested an abdominal ultrasound and blood tests, which are relevant, but failed to interpret the provided upper abdominal CT scan and missed ordering gallbladder, cholecystitis, or detailed liver function tests, leading to only partial examination relevancy.
+
+**Diagnosis and Treatment score: 2.3**
+The doctor acknowledged an infection but did not specify "upper gastrointestinal perforation," "cholecystolithiasis," or "acute diffuse peritonitis." The treatment plan did not mention surgical intervention required for perforation repair, leaving significant gaps compared to the standard case.
+
+**Communication Skills score: 3.5**
+The doctor attempted clear communication, answered questions, reassured the patient, and showed empathy. However, explanations were slightly complicated and possibly confusing, and lacked specific guidance or follow-up on the necessary surgical intervention.
+--------------------------
+case:3
+
+
+Consultation score: 2.5  
+Examination score: 1  
+Diagnosis and Treatment score: 1.5  
+Communication Skills score: 3.5  
+--------------------------
+case:4
+
+
+Consultation:
+score: 2
+
+Examination:
+score: 1
+
+Diagnosis and Treatment:
+score: 1
+
+Communication Skills:
+score: 2
+--------------------------
+case:5
+
+
+Consultation score: 2.5  
+Examination score: 1  
+Diagnosis and Treatment score: 2  
+Communication Skills score: 3.5
+--------------------------
+case:6
+
+
+Consultation score: 3.5 
+
+Examination score: 1 
+
+Diagnosis and Treatment score: 2 
+
+Communication Skills score: 3.5
+--------------------------
+case:7
+
+
+Consultation
+score: 3
+
+Examination
+score: 3
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 4
+--------------------------
+case:8
+
+
+Consultation
+score: 3.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3.5
+
+Communication Skills
+score: 4
+--------------------------
+case:9
+
+
+Consultation score: 2.3
+Examination score: 1
+Diagnosis and Treatment score: 1
+Communication Skills score: 3
+--------------------------
+case:10
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3
+--------------------------
+case:11
+
+
+Consultation score: 3.2
+
+Examination score: 1
+
+Diagnosis and Treatment score: 1.7
+
+Communication Skills score: 3.3
+--------------------------
+case:12
+
+
+Consultation:
+score: 3
+
+Examination:
+score: 1
+
+Diagnosis and Treatment:
+score: 2
+
+Communication Skills:
+score: 3
+--------------------------
+case:13
+
+
+Consultation score: 3.5
+Examination score: 1
+Diagnosis and Treatment score: 2
+Communication Skills score: 4.5
+--------------------------
+case:14
+
+
+Consultation
+score: 3.8
+
+Examination
+score: 3.5
+
+Diagnosis and Treatment
+score: 3.4
+
+Communication Skills
+score: 4.0
+--------------------------
+case:15
+
+
+Consultation
+score: 2.8
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1.5
+
+Communication Skills
+score: 4.8
+--------------------------
+case:16
+
+
+Consultation
+Score: 4
+The doctor was clear, logical, and thorough in collecting the patient’s medical history. There was an emphasis on key issues like the seizure and missing medication. However, there were minor gaps in exploring the chronic conditions and their management, contributing to the score.
+
+Examination
+Score: 1
+The physical examination was notably absent, particularly considering the claimed minor abrasion on the right eyebrow. The assessments proposed (brain MRI, EEG) were sound but are technically diagnostic tests rather than physical examinations.
+
+Diagnosis and Treatment
+Score: 4
+The diagnosis closely aligned with the standard case, recognizing the seizure likely due to missed medication. The treatment plan was appropriate but missed mentioning an intravenous injection to manage immediate symptoms, differing slightly from the standard case treatment.
+
+Communication Skills
+Score: 4
+The doctor communicated effectively, reassured the patient, and provided clear, concise advice. There was a lack of explicit empathy, which would enhance the interaction, thus earning a very good but not perfect score.
+--------------------------
+case:17
+
+
+Consultation
+score: 2
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 3
+--------------------------
+case:18
+
+
+Consultation  
+score: 2
+
+Examination  
+score: 1
+
+Diagnosis and Treatment  
+score: 1
+
+Communication Skills  
+score: 2
+--------------------------
+case:19
+
+
+Consultation
+score: 3
+Examination
+score: 1
+Diagnosis and Treatment
+score: 2.5
+Communication Skills
+score: 4
+--------------------------
+case:20
+
+
+Consultation:
+score: 3.7
+
+Examination:
+score: 1
+
+Diagnosis and Treatment:
+score: 3
+
+Communication Skills:
+score: 4.8
+--------------------------
+case:21
+
+
+Consultation
+score: 4
+
+Examination
+score: 3
+
+Diagnosis and Treatment
+score: 2.3
+
+Communication Skills
+score: 4.2
+--------------------------
+case:22
+
+
+Consultation score: 2.5
+Examination score: 1
+Diagnosis and Treatment score: 2.5
+Communication Skills score: 2.5
+--------------------------
+case:23
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 4
+--------------------------
+case:24
+
+
+Consultation score: 2.5  
+Examination score: 1   
+Diagnosis and Treatment score: 3  
+Communication Skills score: 3
+--------------------------
+case:25
+
+
+Consultation
+score: 2.8
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 1
+
+Communication Skills
+score: 3.2
+--------------------------
+case:26
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 4
+--------------------------
+case:27
+
+
+Consultation score: 2.3
+Examination score: 1
+Diagnosis and Treatment score: 2.8
+Communication Skills score: 4
+--------------------------
+case:28
+
+
+Consultation score: 3.8
+Examination score: 1
+Diagnosis and Treatment score: 2
+Communication Skills score: 3.5
+--------------------------
+case:29
+
+
+**Consultation**
+
+score: 2.5
+
+**Examination**
+
+score: 1
+
+**Diagnosis and Treatment**
+
+score: 2.5
+
+**Communication Skills**
+
+score: 3
+--------------------------
+case:30
+
+
+Consultation score: 2.5
+Examination score: 1
+Diagnosis and Treatment score: 1.5
+Communication Skills score: 3.5

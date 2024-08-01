@@ -1,0 +1,418 @@
+
+--------------------------
+case:1
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3.5
+
+Communication Skills
+score: 4.5
+--------------------------
+case:2
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 5
+
+Communication Skills
+score: 4
+--------------------------
+case:3
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2.5
+
+Communication Skills
+score: 4
+--------------------------
+case:4
+
+
+Consultation
+score: 4
+
+Examination
+score: 3
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 3
+--------------------------
+case:5
+
+
+Consultation  
+score: 3
+
+Examination  
+score: 1
+
+Diagnosis and Treatment  
+score: 4
+
+Communication Skills  
+score: 4
+--------------------------
+case:6
+
+
+**Consultation**
+score: 4
+
+**Examination**
+score: 4
+
+**Diagnosis and Treatment**
+score: 3.5
+
+**Communication Skills**
+score: 4.5
+--------------------------
+case:7
+
+
+Consultation score: 3.5
+Examination score: 1
+Diagnosis and Treatment score: 2
+Communication Skills score: 3.5
+--------------------------
+case:8
+
+
+Consultation
+score: 4
+
+Examination
+score: 3.5
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 4
+--------------------------
+case:9
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 4
+--------------------------
+case:10
+
+
+Consultation
+score: 4
+
+Examination
+score: 3
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 4
+--------------------------
+case:11
+
+
+Consultation score: 3.8  
+Examination score: 1  
+Diagnosis and Treatment score: 2.5  
+Communication Skills score: 4
+--------------------------
+case:12
+
+
+**Ratings:**
+
+Consultation score: 3 
+Examination score: 1 
+Diagnosis and Treatment score: 1 
+Communication Skills score: 4
+--------------------------
+case:13
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 4
+--------------------------
+case:14
+
+
+Consultation
+Score: 3.8
+The doctor maintains a logical flow throughout the consultation and avoids excessive medical jargon. However, some important aspects of the patient's medical history, such as the impact of cholecystitis on daily activities or any previous interventions, were not fully explored. Additionally, while questions were relevant, certain key issues might have been addressed more directly.
+
+Examination
+Score: 4.2
+The doctor did not perform any actual physical exams listed in the standard case but proposed ordering necessary tests and an abdominal ultrasound as indicated. The recommendations for further diagnostic workup, including blood and imaging studies, align well with the standard case. There is, nevertheless, a slight uncertainty due to the absence of immediate physical examination details.
+
+Diagnosis and Treatment
+Score: 4.2
+The doctor's diagnosis is consistent with standard case data, noting the likely relationship between symptoms and gallstones and chronic cholecystitis. The proposed diagnostic workup and symptomatic management align with the standard case, although the discussion of long-term treatment options, such as laparoscopic cholecystectomy, is slightly underemphasized at this stage.
+
+Communication Skills
+Score: 4.5
+The doctor demonstrates good communication skills by providing clear, concise answers and effectively guiding the patient through her medical history. The doctor reassures and encourages the patient, making understanding easier. There is room for improvement in terms of empathetic engagement and explaining some medical insights more thoroughly to ensure the patient feels fully informed.
+
+Overall, the doctor performed well across all criteria, showcasing a logical approach and effective communication skills while also suggesting an appropriate and aligned treatment plan based on the patient's condition and history.
+--------------------------
+case:15
+
+
+**Consultation**  
+score: 4
+
+**Examination**  
+score: 1
+
+**Diagnosis and Treatment**  
+score: 2.1
+
+**Communication Skills**  
+score: 3.5
+--------------------------
+case:16
+
+
+**Consultation**
+score: 4
+
+**Examination**
+score: 4
+
+**Diagnosis and Treatment**
+score: 4
+
+**Communication Skills**
+score: 3.5
+--------------------------
+case:17
+
+
+Consultation score: 2.3  
+Examination score: 1  
+Diagnosis and Treatment score: 3.5  
+Communication Skills score: 3.7  
+--------------------------
+case:18
+
+
+Consultation
+score: 3.8
+
+Examination
+score: 4
+
+Diagnosis and Treatment
+score: 3.4
+
+Communication Skills
+score: 4.2
+--------------------------
+case:19
+
+
+Consultation score: 3.8
+
+Examination score: 2.9
+
+Diagnosis and Treatment score: 2.8
+
+Communication Skills score: 4.2
+--------------------------
+case:20
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 4
+--------------------------
+case:21
+
+
+Consultation
+score: 3
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 4
+--------------------------
+case:22
+
+
+Consultation:
+score: 3
+
+Examination:
+score: 1
+
+Diagnosis and Treatment:
+score: 3
+
+Communication Skills:
+score: 4
+--------------------------
+case:23
+
+
+**Consultation:**score: 4
+
+**Examination:**score: 3.5 
+
+**Diagnosis and Treatment:**score: 3.5
+
+**Communication Skills:**score: 4.5
+--------------------------
+case:24
+
+
+**Consultation**
+Score: 4
+
+**Examination**
+Score: 1
+
+**Diagnosis and Treatment**
+Score: 3
+
+**Communication Skills**
+Score: 4
+--------------------------
+case:25
+
+
+Consultation
+score: 3.5
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 4
+
+Communication Skills
+score: 3.5
+--------------------------
+case:26
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 3
+
+Communication Skills
+score: 4
+--------------------------
+case:27
+
+
+Consultation score: 3.5
+Examination score: 1
+Diagnosis and Treatment score: 2.5
+Communication Skills score: 4
+
+Overall, the doctor conducted a logical and mostly thorough consultation, avoiding excessive jargon and focusing on key issues. However, the recommended examinations were not fully aligned with the standard case. The diagnosis and treatment plan deviated significantly from the standard case. Communication with the patient was clear and reassuring, aiding understanding and compliance.
+--------------------------
+case:28
+
+
+**Consultation**  
+Score: 3
+
+**Examination**  
+Score: 2.5
+
+**Diagnosis and Treatment**  
+Score: 3
+
+**Communication Skills**  
+Score: 3
+--------------------------
+case:29
+
+
+**Consultation**
+score: 4
+
+**Examination**
+score: 2
+
+**Diagnosis and Treatment**
+score: 3
+
+**Communication Skills**
+score: 4
+--------------------------
+case:30
+
+
+Consultation
+score: 4
+
+Examination
+score: 1
+
+Diagnosis and Treatment
+score: 2
+
+Communication Skills
+score: 4

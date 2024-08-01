@@ -1,0 +1,258 @@
+
+--------------------------
+case:1
+
+
+**Diagnosis**  
+score: 3  
+
+**Treatment**  
+score: 4
+--------------------------
+case:2
+
+
+**Diagnosis**
+score: 3
+
+**Treatment**
+score: 3.5
+--------------------------
+case:3
+
+
+**Diagnosis:**  
+score: 2
+
+**Treatment:**  
+score: 3
+--------------------------
+case:4
+
+
+**Diagnosis**
+score: 3
+
+**Treatment**
+score: 3.5
+--------------------------
+case:5
+
+
+**Diagnosis**
+score: 3
+
+**Treatment**
+score: 2.5
+--------------------------
+case:6
+
+
+**Diagnosis**
+score: 5
+
+**Treatment**
+score: 5
+--------------------------
+case:7
+
+
+Diagnosis:
+score: 3
+
+Treatment:
+score: 4
+--------------------------
+case:8
+
+
+Diagnosis score: 4.5  
+Treatment score: 4
+--------------------------
+case:9
+
+
+**Diagnosis**  
+score: 4  
+
+**Treatment**  
+score: 3.5
+--------------------------
+case:10
+
+
+Diagnosis score: 2.5
+Treatment score: 3
+--------------------------
+case:11
+
+
+**Diagnosis:**  
+score: 1.5
+
+**Treatment:**  
+score: 2.5
+--------------------------
+case:12
+
+
+Diagnosis score: 3.8
+Treatment score: 4.5
+--------------------------
+case:13
+
+
+**Diagnosis:**
+score: 3
+
+**Treatment:**
+score: 3.5
+--------------------------
+case:14
+
+
+**Diagnosis:**  
+score: 5
+
+**Treatment:**  
+score: 4.5
+--------------------------
+case:15
+
+
+**Diagnosis**
+score: 2
+
+**Treatment**
+score: 2.5
+--------------------------
+case:16
+
+
+Diagnosis: score: 5
+
+Treatment: score: 4.5
+--------------------------
+case:17
+
+
+Diagnosis
+score: 4
+
+Treatment
+score: 4
+--------------------------
+case:18
+
+
+Diagnosis: score: 3  
+Treatment: score: 4
+--------------------------
+case:19
+
+
+**Diagnosis:**
+score: 2
+
+**Treatment:**
+score: 3
+--------------------------
+case:20
+
+
+Diagnosis
+score: 2
+
+Treatment
+score: 3
+--------------------------
+case:21
+
+
+Diagnosis: 
+score: 3
+
+Treatment:
+score: 3.5
+--------------------------
+case:22
+
+
+**Diagnosis**
+
+**score: 4**
+Although the doctor did mention suspected rib fractures and/or pneumothorax and possible splenic injury or other abdominal trauma, it wasn't as precise as the diagnosis given in the 'case info' which detailed blunt trauma to the thoracoabdominal region and abdominal effusion.
+
+**Treatment**
+
+**score: 4**
+The doctor provided a comprehensive treatment plan that included pain relief, imaging, blood tests, oxygen, monitoring, and potential surgical consultation—similar to the benchmark, but not as specific regarding the necessity for fluid replenishment, antibiotics, and nutritional support for management of the abdominal effusion.
+--------------------------
+case:23
+
+
+Diagnosis
+score: 5
+
+Treatment
+score: 4.5
+--------------------------
+case:24
+
+
+**Diagnosis**:  
+score: 3
+
+**Treatment**:  
+score: 4
+--------------------------
+case:25
+
+
+Diagnosis score: 2.5
+Treatment score: 3.0
+--------------------------
+case:26
+
+
+Diagnosis:
+score: 2.5
+
+Treatment:
+score: 2.5
+--------------------------
+case:27
+
+
+Diagnosis
+score: 3.5
+
+Treatment
+score: 3.5
+--------------------------
+case:28
+
+
+**Diagnosis**
+score: 2.5
+
+**Treatment**
+score: 2.5
+--------------------------
+case:29
+
+
+**Diagnosis**
+score: 2.5
+
+**Treatment**
+score: 2.5
+--------------------------
+case:30
+
+
+**Diagnosis**  
+score: 1
+
+**Treatment**  
+score: 1

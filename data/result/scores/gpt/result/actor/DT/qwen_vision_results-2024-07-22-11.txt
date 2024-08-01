@@ -1,0 +1,223 @@
+
+--------------------------
+case:1
+
+
+Diagnosis score: 1.5  
+Treatment score: 3
+--------------------------
+case:2
+
+
+Diagnosis score: 2.5
+Treatment score: 2.5
+--------------------------
+case:3
+
+
+Diagnosis score: 1.5  
+Treatment score: 2.5
+--------------------------
+case:4
+
+
+Diagnosis score: 1.5
+Treatment score: 2.5
+--------------------------
+case:5
+
+
+**Diagnosis:**  
+Score: 2  
+The doctor diagnosed the patient with a possible bacterial infection or food poisoning, which is inconsistent with the standard diagnosis of acute appendicitis. Even though the abdominal pain and diarrhea could point to various causes, the specific symptoms like pain migration to the lower right abdomen and rebound tenderness suggest acute appendicitis, which was not considered by the doctor.
+
+**Treatment:**  
+Score: 2  
+The treatment plan included prescribing antibiotics and continuing with the current diet and lifestyle, which would not adequately address acute appendicitis. The standard treatment (limited cecum resection with appendectomy) would be significantly different and necessary for the patient’s condition. The provided treatment deviates notably from what is required and is largely ineffective for treating acute appendicitis.
+--------------------------
+case:6
+
+
+Diagnosis score: 4
+Treatment score: 4.5
+--------------------------
+case:7
+
+
+Diagnosis score: 2.1  
+Treatment score: 2.5
+--------------------------
+case:8
+
+
+Diagnosis score: 2.5
+
+Treatment score: 2
+--------------------------
+case:9
+
+
+Diagnosis score: 2  
+Treatment score: 2
+--------------------------
+case:10
+
+
+Diagnosis score: 2.7
+Treatment score: 3.3
+--------------------------
+case:11
+
+
+Diagnosis score: 3.5  
+Treatment score: 3.5
+--------------------------
+case:12
+
+
+Diagnosis score: 1.5  
+Treatment score: 2.0
+--------------------------
+case:13
+
+
+Diagnosis
+score: 3
+
+Treatment
+score: 2.5
+--------------------------
+case:14
+
+
+Diagnosis score: 1.5
+Treatment score: 2.5
+--------------------------
+case:15
+
+
+Diagnosis score: 1.5
+
+Treatment score: 2.0
+--------------------------
+case:16
+
+
+Diagnosis score: 4.5
+
+Treatment score: 4.7
+--------------------------
+case:17
+
+
+Diagnosis score
+score: 3
+
+Treatment score
+score: 3.5
+--------------------------
+case:18
+
+
+**Diagnosis:**
+
+score: 2
+
+**Treatment:**
+
+score: 2.5
+--------------------------
+case:19
+
+
+Diagnosis score: 1
+Treatment score: 2
+--------------------------
+case:20
+
+
+**Diagnosis**
+Score: 2
+
+**Treatment**
+Score: 3.5
+--------------------------
+case:21
+
+
+**Diagnosis**
+Score: 2.5
+
+**Treatment**
+Score: 3
+--------------------------
+case:22
+
+
+Diagnosis score
+score: 2.5  
+
+Treatment score
+score: 3
+--------------------------
+case:23
+
+
+Diagnosis score: 3.5
+
+Treatment score: 3
+--------------------------
+case:24
+
+
+Diagnosis score: 1.5 
+Treatment score: 2.5
+--------------------------
+case:25
+
+
+Diagnosis score
+score: 2.5  
+
+Treatment score
+score: 3.5  
+--------------------------
+case:26
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3.0
+--------------------------
+case:27
+
+
+**Diagnosis Evaluation:**
+
+score: 1.8
+
+**Treatment Evaluation:**
+
+score: 3.5
+--------------------------
+case:28
+
+
+**Diagnosis**  
+score: 2
+
+**Treatment**  
+score: 2
+--------------------------
+case:29
+
+
+Diagnosis score: 1.5
+Treatment score: 1
+--------------------------
+case:30
+
+
+Diagnosis score: 3.0
+
+Treatment score: 2.0

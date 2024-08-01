@@ -1,0 +1,215 @@
+
+--------------------------
+case:1
+
+
+Diagnosis
+score: 1
+
+Treatment
+score: 2
+--------------------------
+case:2
+
+
+Diagnosis score: 2
+Treatment score: 2
+--------------------------
+case:3
+
+
+Diagnosis score: 1.7
+Treatment score: 1.5
+--------------------------
+case:4
+
+
+Diagnosis score: 1
+Treatment score: 2
+--------------------------
+case:5
+
+
+Diagnosis score: 4.2  
+Treatment score: 4.5  
+--------------------------
+case:6
+
+
+Diagnosis score: 3
+Treatment score: 3.5
+--------------------------
+case:7
+
+
+Diagnosis score: 1
+Treatment score: 2.5
+--------------------------
+case:8
+
+
+Diagnosis
+score: 2
+
+Treatment
+score: 2
+--------------------------
+case:9
+
+
+Diagnosis score: 2  
+Treatment score: 1
+--------------------------
+case:10
+
+
+Diagnosis score: 1  
+Treatment score: 1
+--------------------------
+case:11
+
+
+Diagnosis score: 1  
+Treatment score: 2  
+--------------------------
+case:12
+
+
+Diagnosis score: 2.5
+
+Treatment score: 2.5
+--------------------------
+case:13
+
+
+**Diagnosis score: 3.5**  
+The doctor's diagnosis of possible gallbladder issues, such as gallstones or inflammation, and mentioning jaundice related to a bile duct blockage is close, but slightly off. The correct diagnosis is common bile duct stones, which is more specific than just "gallstones or inflammation."
+
+**Treatment score: 2.5**  
+The treatment plan suggested by the doctor, which includes further testing and mentions possible medication, lifestyle changes, or surgery, is not aligned with the benchmark treatment plan of choledochotomy for stone extraction and T-tube drainage. Further testing is accurate, but the broad suggestions do not cover the specific surgical intervention required.
+--------------------------
+case:14
+
+
+Diagnosis score: 3.5
+Treatment score: 4.5
+--------------------------
+case:15
+
+
+Diagnosis:
+score: 1
+
+Treatment:
+score: 2
+--------------------------
+case:16
+
+
+**Evaluation Criteria**
+
+Diagnosis:
+score: 4.5
+
+Treatment:
+score: 4.5
+--------------------------
+case:17
+
+
+
+Diagnosis score: 2.5
+Treatment score: 3.5
+--------------------------
+case:18
+
+
+Diagnosis score: 2.8
+
+Treatment score: 3.0
+--------------------------
+case:19
+
+
+**Diagnosis:**  
+score: 1
+
+**Treatment:**  
+score: 2
+--------------------------
+case:20
+
+
+Diagnosis score: 2.5  
+Treatment score: 3.5
+--------------------------
+case:21
+
+
+Diagnosis score: 2.5
+
+Treatment score: 3
+--------------------------
+case:22
+
+
+Diagnosis score: 2  
+Treatment score: 3
+--------------------------
+case:23
+
+
+Diagnosis:
+score: 4
+
+Treatment:
+score: 3.5
+--------------------------
+case:24
+
+
+Diagnosis score: 1.5  
+Treatment score: 1.5  
+--------------------------
+case:25
+
+
+Diagnosis score: 1
+Treatment score: 2
+--------------------------
+case:26
+
+
+Diagnosis score: 2.0  
+The doctor suggested that the patient might be experiencing migraines or vertigo, which deviates from the correct diagnosis of cavernous hemangioma. The diagnosis did not address the correct condition based on the provided information.
+
+Treatment score: 2.0  
+The doctor recommended over-the-counter pain medication and avoiding triggers for headaches and dizziness, including referring the patient to a neurologist for further evaluation. However, this plan is insufficient as it does not align with the standard treatment for cavernous hemangioma, which includes cerebral protection, nutritional support for nerves, improving cerebral metabolism, protecting the gastric mucosa, and dehydration to reduce intracranial pressure.
+--------------------------
+case:27
+
+
+Diagnosis score: 1.8
+
+Treatment score: 2.3
+--------------------------
+case:28
+
+
+Diagnosis score: 2
+Treatment score: 2
+--------------------------
+case:29
+
+
+Diagnosis score: 1.0
+Treatment score: 1.0
+--------------------------
+case:30
+
+
+**Diagnosis:**  
+score: 1  
+
+**Treatment:**  
+score: 1
