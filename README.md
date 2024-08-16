@@ -68,8 +68,7 @@ CUDA_VISIBLE_DEVICES=2 python consultation.py \
 #### Auto-Metric
 
 - doctor_calculate_metric_whole.py: The metric about  inqurary, examination, diagnosis, treatment, et.al.
-- doctor_calculate_metric_mm.py:  The metric about MMA, contras-1, contras-2.
-- doctor_calaulate_infor.py: The metric about information gains.
+- doctor_calculate_metric_mm.py:  The metric about MMA.
 
 #### LLM-Metric
 
