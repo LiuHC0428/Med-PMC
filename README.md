@@ -83,3 +83,11 @@ CUDA_VISIBLE_DEVICES=2 python consultation.py \
 - actor_llm_eval.py: The evaluation of patient by GPT-4o.
 
 ### Cite
+```latex
+@article{liu2024med,
+  title={Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm},
+  author={Liu, Hongcheng and Liao, Yusheng and Ou, Siqv and Wang, Yuhao and Liu, Heyang and Wang, Yanfeng and Wang, Yu},
+  journal={arXiv preprint arXiv:2408.08693},
+  year={2024}
+}
+```
